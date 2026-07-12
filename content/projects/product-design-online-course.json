@@ -1,0 +1,38 @@
+{
+  "slug": "product-design-online-course",
+  "title": "Product Design Online Course",
+  "year": 2025,
+  "tagline": "30-part Fusion 360 product design course",
+  "lede": "Completed a 30-part Product Design Online course to improve Fusion 360 skills.",
+  "cover": "../Product Design Online Course/Screenshot 2026-01-03 at 3.15.05 PM.png",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": "Design Projects",
+      "body": [
+        "Toy Block · Glass Bottle · Paper Clip · Lofted Bottle · Ice Cube Tray · Hex Nut · Bike Grip · Door Stopper · Light Bulb · iPhone Case · Dog Bowl · Auger · Components and Assemblies · Screwdriver · Painter's Tripod · Sketch Constraints · STL to Solid · Parameters and Joints · Hinges · One-Part Molds · Two-Part Molds · Assemblies with Joints · Sheet Metal Tools · Fan Blades with Surfaces · Mesh Files · T-Splines · Rendering · 2D Drawings · Animations"
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Product Design Online Course/Screenshot 2026-01-03 at 3.15.05 PM.png",
+      "caption": "Part 1"
+    },
+    {
+      "type": "image",
+      "source": "../Product Design Online Course/Screenshot 2026-01-03 at 3.16.52 PM.png",
+      "caption": "Part 2"
+    },
+    {
+      "type": "image",
+      "source": "../Product Design Online Course/Screenshot 2026-01-03 at 3.19.43 PM.png",
+      "caption": "Part 3"
+    },
+    {
+      "type": "image",
+      "source": "../Product Design Online Course/Screenshot 2026-01-03 at 3.21.50 PM.png",
+      "caption": "Course designs"
+    }
+  ],
+  "order": 14
+}

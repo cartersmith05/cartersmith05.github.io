@@ -1,0 +1,50 @@
+{
+  "slug": "bee-race",
+  "title": "Bee Race",
+  "year": 2024,
+  "tagline": "A maze-race game built in Pyret",
+  "lede": "The Bee Race was a project completed using the Pyret programming language. It is a standard maze-race game in which a player controls a bee as it moves through the maze, collecting honey to regain health and racing to save a princess at the end.",
+  "cover": "../Bee Race/Screenshot 2026-01-03 at 1.49.31 PM.png",
+  "blocks": [
+    {
+      "type": "video",
+      "source": "../Bee Race/Screen Recording 2025-12-30 at 11.44.02 PM.mov",
+      "caption": "Gameplay recording"
+    },
+    {
+      "type": "text",
+      "heading": "Data Type Lessons",
+      "body": [
+        "Initially, the data types we proposed were quite clunky. We defined many individual values within our data types, before realizing that we could have created additional data types to both clean up our structure and reduce the number of individual adjustments required when making changes. The revised data type solution also excluded constant values, such as the maze itself, which we had mistakenly included in the game state."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Lessons Learned",
+      "body": [
+        "Through this project, I learned the importance of clean and readable data organization. This was the largest project I had completed to date, and having clear, well-structured data type definitions made working through complex tasks much easier. It reinforced that when tackling a large project, thoughtful data organization early on plays a major role in long-term success."
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Bee Race/Screenshot 2026-01-03 at 1.49.31 PM.png",
+      "caption": "Maze"
+    },
+    {
+      "type": "image",
+      "source": "../Bee Race/Screenshot 2026-01-03 at 5.24.10 PM.png",
+      "caption": "Princess Widget"
+    },
+    {
+      "type": "image",
+      "source": "../Bee Race/Screenshot 2026-01-03 at 5.25.15 PM.png",
+      "caption": "Bee + Honey Widgets"
+    },
+    {
+      "type": "file",
+      "source": "../Bee Race/game-f24.arr",
+      "label": "Download the Pyret source (game-f24.arr)"
+    }
+  ],
+  "order": 10
+}

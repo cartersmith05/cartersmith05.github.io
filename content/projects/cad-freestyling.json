@@ -1,0 +1,31 @@
+{
+  "slug": "cad-freestyling",
+  "title": "CAD Freestyling",
+  "year": 2026,
+  "tagline": "Freestyle CAD Designs in Fusion 360",
+  "lede": "Practiced solo CAD work to improve Fusion 360 skills.",
+  "cover": "../Freestyle CAD/Screenshot 2026-01-03 at 2.17.09 PM.png",
+  "blocks": [
+    {
+      "type": "image",
+      "source": "../Freestyle CAD/Screenshot 2026-01-03 at 2.13.18 PM.png",
+      "caption": "Design sketches"
+    },
+    {
+      "type": "image",
+      "source": "../Freestyle CAD/Screenshot 2026-01-03 at 2.14.22 PM.png",
+      "caption": "Phone Holder + Slide"
+    },
+    {
+      "type": "image",
+      "source": "../Freestyle CAD/Screenshot 2026-01-03 at 2.15.10 PM.png",
+      "caption": "Drawer + Table"
+    },
+    {
+      "type": "image",
+      "source": "../Freestyle CAD/Screenshot 2026-01-03 at 2.17.09 PM.png",
+      "caption": "Stool + Jar"
+    }
+  ],
+  "order": 12
+}

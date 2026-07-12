@@ -1,0 +1,52 @@
+{
+  "slug": "dark-ride-vehicle",
+  "title": "Dark Ride Vehicle",
+  "year": 2023,
+  "tagline": "3D Designed Dark Ride Vehicle",
+  "lede": "A dark ride vehicle designed in my introductory engineering class. It was part of a group project, and I was responsible for the Fusion 360 modeling and 3D printing.",
+  "cover": "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.29.47 PM.png",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": "Overview",
+      "body": [
+        "This project was designed to create an exciting theme park ride that takes riders through a Wild West story."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Process",
+      "body": [
+        "One of my group members completed the technical drawings for the ride vehicle, which I then translated into Fusion 360. The vehicle sits on a ride platform and features a moving arm bar that allows riders to enter and exit."
+      ]
+    },
+    {
+      "type": "video",
+      "source": "../Dark Ride Vehicle/RideVehicle_Animation.mov",
+      "caption": "Ride vehicle animation — the moving arm bar in action"
+    },
+    {
+      "type": "text",
+      "heading": "Lessons Learned",
+      "body": [
+        "This project was my first in-depth experience with Fusion 360 and was extremely helpful in learning the software's interface. In the future, I plan to improve my use of components when creating different vehicle parts, so that returning to make updates or improvements is a more seamless process."
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.29.47 PM.png",
+      "caption": "3D Printed Vehicle"
+    },
+    {
+      "type": "image",
+      "source": "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.33.16 PM.png",
+      "caption": "Failure Analysis"
+    },
+    {
+      "type": "image",
+      "source": "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.34.17 PM.png",
+      "caption": "Dimension Drawings"
+    }
+  ],
+  "order": 4
+}

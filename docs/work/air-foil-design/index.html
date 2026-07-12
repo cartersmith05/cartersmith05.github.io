@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Air Foil Design — Carter Smith</title>
+<meta name="description" content="Worked in a group of 4 to optimize an airfoil for the highest coefficient of lift at stall.">
+<link rel="stylesheet" href="../../style.css">
+<link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<header class="site-header">
+  <a class="wordmark" href="../../index.html">Carter Smith</a>
+  <nav>
+    <a href="../../work/index.html" class="active">Work</a>
+    <a href="../../resume/index.html">Resume</a>
+  </nav>
+</header>
+<main>
+<article class="project">
+<p class="crumb"><a href="../index.html">‹ All Projects</a></p>
+<h1>Air Foil Design</h1>
+<p class="project-meta">🗓️ 2026</p>
+<p class="lede">Worked in a group of 4 to optimize an airfoil for the highest coefficient of lift at stall.</p>
+<h2>Objective</h2>
+<p>The goal of this project was to evaluate how airfoil geometry influences aerodynamic performance and to design an improved hydrofoil configuration. We compared experimental wind tunnel data with computational simulations to better understand lift generation, drag forces, and stall behavior.</p>
+<h2>Approach</h2>
+<p>The project combined experimental testing and computational analysis. Wind tunnel experiments measured lift and drag forces across different angles of attack. XFLR5 was used to simulate airfoil performance and generate lift and drag curves for multiple NACA airfoil designs. MATLAB was used to process experimental data and generate performance plots such as lift vs. angle of attack and drag polars. MFC simulations visualized in VisIt were used to examine pressure coefficient distributions and vorticity fields to better understand flow separation and wake behavior.</p>
+<figure><img src="../../assets/air-foil-design/naca-lift-coefficients-xflr5.png" alt="NACA Airfoil Coefficients of Lift in XFLR5" width="1600" height="1380" loading="lazy"><figcaption>NACA Airfoil Coefficients of Lift in XFLR5</figcaption></figure>
+<h2>Key Findings</h2>
+<p>The analysis revealed several important aerodynamic trends. Increasing camber improves lift generation, and a rounded leading edge delays stall by reducing early flow separation. Finite wing effects, such as wingtip vortices, reduced lift compared to 2D simulation predictions. We also observed that simulation tools tended to overestimate lift and underestimate drag compared to experimental results.</p>
+<h2>Design Outcome</h2>
+<p>Based on the analysis, the team proposed transitioning from the original airfoil design to a NACA 63A-010 hydrofoil, which reduces thickness and produces a flatter pressure distribution. This design helps lower drag and improve overall efficiency.</p>
+<figure><img src="../../assets/air-foil-design/original-airfoil-wind-tunnel.jpg" alt="Original Airfoil Iteration in the Wind Tunnel" width="1600" height="1200" loading="lazy"><figcaption>Original Airfoil Iteration in the Wind Tunnel</figcaption></figure>
+<figure><img src="../../assets/air-foil-design/airfoil-print-chord.jpg" alt="Chord Length" width="1200" height="1600" loading="lazy"><figcaption>Chord Length</figcaption></figure>
+<nav class="prev-next"><a class="pn next" href="../nereus-systems/index.html">Nereus Systems ›</a></nav>
+</article>
+</main>
+<footer class="site-footer">
+  <p>© 2026 Carter Smith</p>
+  <p>
+    <a href="mailto:carter_smith@brown.edu">carter_smith@brown.edu</a> ·
+    <a href="https://www.linkedin.com/in/carter-smith-56a5912a1" target="_blank" rel="noopener">LinkedIn</a>
+  </p>
+</footer>
+<div class="lightbox" id="lightbox" hidden><img alt=""></div>
+<script src="../../main.js"></script>
+</body>
+</html>

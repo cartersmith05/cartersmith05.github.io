@@ -1,0 +1,38 @@
+{
+  "slug": "shuttlecock-design",
+  "title": "Lab — Shuttlecock Design",
+  "year": 2025,
+  "tagline": "Redesigning shuttlecock feathers to model flight",
+  "lede": "Worked on a team to redesign the feathers of a shuttlecock in order to track its flight path when launched from an air cannon and compare it to that of a standard shuttlecock.",
+  "cover": "../Shuttle Cock Lab/Screenshot 2026-01-03 at 2.44.37 PM.png",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": null,
+      "body": [
+        "This lab investigated the fluid mechanics governing the flight of a badminton shuttlecock. Due to its unique shape and high drag coefficient, a shuttlecock experiences significantly more drag than standard objects in ballistic trajectories, resulting in rapid deceleration and a steep, non-parabolic flight path. The aim of this experiment was to better understand and model this behavior by predicting the shuttlecock's trajectory and comparing those predictions with measured trajectories. Additionally, by creating a synthetic shuttlecock that mimics the trajectory of a traditional feathered shuttlecock, the drag coefficient of the synthetic design could be determined through experiment–model fitting."
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Shuttle Cock Lab/Screenshot 2026-01-03 at 2.44.37 PM.png",
+      "caption": "Synthetic shuttlecock design"
+    },
+    {
+      "type": "image",
+      "source": "../Shuttle Cock Lab/Screenshot 2026-01-04 at 10.45.06 PM.png",
+      "caption": "Trajectory 1"
+    },
+    {
+      "type": "image",
+      "source": "../Shuttle Cock Lab/Screenshot 2026-01-04 at 10.46.24 PM.png",
+      "caption": "Trajectory 2"
+    },
+    {
+      "type": "image",
+      "source": "../Shuttle Cock Lab/Screenshot 2026-01-04 at 10.47.32 PM.png",
+      "caption": "Trajectory 3"
+    }
+  ],
+  "order": 15
+}

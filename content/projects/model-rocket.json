@@ -1,0 +1,28 @@
+{
+  "slug": "model-rocket",
+  "title": "Model Rocket",
+  "year": 2026,
+  "tagline": "High Powered Rocketry Certification",
+  "lede": "Creating a model rocket and obtaining High Powered Rocketry Certification with the Brown University Rocketry club.",
+  "cover": "../Model Rocket/Apogee Rocket.jpg",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": null,
+      "body": [
+        "Creating a model rocket and obtaining High Powered Rocketry Certification with the Brown University Rocketry club."
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Model Rocket/Apogee Rocket.jpg",
+      "caption": "Current progress — Apogee rocket build"
+    },
+    {
+      "type": "image",
+      "source": "../Model Rocket/05066-Kronos_03.jpg",
+      "caption": "End goal — high-powered launch"
+    }
+  ],
+  "order": 8
+}

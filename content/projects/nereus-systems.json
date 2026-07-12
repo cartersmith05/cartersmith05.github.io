@@ -1,0 +1,39 @@
+{
+  "slug": "nereus-systems",
+  "title": "Nereus Systems",
+  "year": 2026,
+  "tagline": "Undergraduate Researcher on the Nereus Systems team",
+  "lede": "Undergraduate chassis lead on the Nereus Systems team.",
+  "cover": "../Nereus/nereus-coil-block.jpeg",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": null,
+      "body": [
+        "As part of the Nereus Systems team, I am the undergraduate chassis lead, working on coil fabrication, chassis preparation, preparing and populating custom PCBs, board wiring, installation, electrical testing and epoxy encapsulation.",
+        "More generally I also contribute to body fabrication and assembly, specifically related to the bulkhead, and custom payload assembly and integration."
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Nereus/IMG_0545.jpeg",
+      "caption": "Coil fabrication"
+    },
+    {
+      "type": "image",
+      "source": "../Nereus/IMG_0546.jpeg",
+      "caption": "Populating custom PCBs"
+    },
+    {
+      "type": "image",
+      "source": "../Nereus/Screenshot 2026-02-20 at 5.30.14 PM.png",
+      "caption": "3D Printed Bulkhead"
+    },
+    {
+      "type": "image",
+      "source": "../Nereus/IMG_0547.jpeg",
+      "caption": "Bulkhead dome"
+    }
+  ],
+  "order": 1
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Carter Smith",
+  "monogram": "CS",
+  "tagline": "Mechanical engineer driven by curiosity and a desire to use technology to solve problems.",
+  "subtitle": "Brown University — Class of 2027",
+  "location": "New York Metro Area",
+  "bio": "As a junior at Brown University, I am working towards a degree in Mechanical Engineering while competing for Brown's Division 1 men's soccer team. My fascination with technological advancement, sparked by childhood toys and a rigorous math and physics education, matured into a hunger for solving engineering challenges.",
+  "email": "carter_smith@brown.edu",
+  "linkedin": "https://www.linkedin.com/in/carter-smith-56a5912a1",
+  "work_intro": "My work is comprised of passion projects, class assignments, and labs.",
+  "featured": [
+    "air-foil-design",
+    "nereus-systems",
+    "smart-insoles"
+  ],
+  "resume_pdf": "../Resume/Smith_Resume.pdf",
+  "resume_image": "../Resume/Screenshot 2026-02-20 at 5.34.51 PM.png"
+}

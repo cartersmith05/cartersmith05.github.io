@@ -1,0 +1,60 @@
+{
+  "slug": "mass-projectile-launcher",
+  "title": "Mass Projectile Launcher",
+  "year": 2024,
+  "tagline": "MATLAB-optimized three-mass, three-spring launcher",
+  "lede": "Worked in a group of two to use MATLAB to optimize a three-mass, three-spring projectile launcher.",
+  "cover": "../Mass Projectile Launcher/IMG_0804.JPG",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": null,
+      "body": [
+        "Our goal was to design and optimize a three-mass, three-spring projectile launcher by calculating the ideal masses and spring constants to achieve the greatest launch velocity. Using MATLAB simulations, we determined that the ideal mass configuration was 0.110 lb at the top, 0.806 lb in the middle, and 5.84 lb at the bottom. Additionally, the optimal spring constants were 15.0 lb/in for the top spring, 120 lb/in for the middle spring, and 912 lb/in for the bottom spring."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": null,
+      "body": [
+        "Based on these results, we assembled and tested a launcher using available materials that most closely matched the calculated values. Finally, we implemented image processing code in combination with a high-speed camera to measure the projectile's velocity, which was found to be 40.7 ft/s."
+      ]
+    },
+    {
+      "type": "video",
+      "source": "../Mass Projectile Launcher/IMG_0802.MOV",
+      "caption": "Launch test"
+    },
+    {
+      "type": "image",
+      "source": "../Mass Projectile Launcher/IMG_0804.JPG",
+      "caption": "Projectile Launcher"
+    },
+    {
+      "type": "image",
+      "source": "../Mass Projectile Launcher/Screenshot 2026-01-03 at 1.34.50 PM.png",
+      "caption": "FBD Drawings + Equations"
+    },
+    {
+      "type": "image",
+      "source": "../Mass Projectile Launcher/Screenshot 2026-01-03 at 1.36.48 PM.png",
+      "caption": "Projectile Launcher (2)"
+    },
+    {
+      "type": "image",
+      "source": "../Mass Projectile Launcher/Screenshot 2026-01-03 at 5.12.19 PM.png",
+      "caption": "High-speed camera velocity measurement"
+    },
+    {
+      "type": "image",
+      "source": "../Mass Projectile Launcher/Screenshot 2026-01-03 at 5.13.22 PM.png",
+      "caption": "Optimized mass and spring configuration (MATLAB)"
+    },
+    {
+      "type": "file",
+      "source": "../Mass Projectile Launcher/Optimizing a Dynamically Tuned Projectile Launcher - Design Project 1 - Google Docs.pdf",
+      "label": "Read the full design report (PDF)"
+    }
+  ],
+  "order": 13
+}

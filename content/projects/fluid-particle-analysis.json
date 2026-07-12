@@ -1,0 +1,33 @@
+{
+  "slug": "fluid-particle-analysis",
+  "title": "Lab — Fluid Particle Analysis",
+  "year": 2025,
+  "tagline": "Vortex rings via Particle Image Velocimetry",
+  "lede": "This lab investigated the behavior of vortex rings and illustrated their velocity and vorticity fields using the Particle Image Velocimetry (PIV) method.",
+  "cover": "../Fluid Particle Analysis Lab/PIVLab Header.png",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": null,
+      "body": [
+        "A vortex ring is a toroidal region of swirling fluid that moves through a still medium as a result of the self-induced velocity of its vorticity field. This phenomenon is commonly observed in flows such as smoke rings and wingtip vortices produced by aircraft, and it provides important insight into the principles governing unsteady and three-dimensional fluid dynamics."
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Fluid Particle Analysis Lab/Screenshot 2026-01-01 at 6.38.52 PM.png",
+      "caption": "Setup"
+    },
+    {
+      "type": "image",
+      "source": "../Fluid Particle Analysis Lab/Screenshot 2026-01-03 at 2.25.31 PM.png",
+      "caption": "Magnitude"
+    },
+    {
+      "type": "image",
+      "source": "../Fluid Particle Analysis Lab/Screenshot 2026-01-03 at 2.28.48 PM.png",
+      "caption": "Vorticity"
+    }
+  ],
+  "order": 11
+}

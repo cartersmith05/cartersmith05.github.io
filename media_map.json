@@ -1,0 +1,484 @@
+{
+ "../Resume/Smith_Resume.pdf": {
+  "web": "assets/site/smith-resume.pdf",
+  "kind": "file"
+ },
+ "../Resume/Screenshot 2026-02-20 at 5.34.51\u202fPM.png": {
+  "web": "assets/site/screenshot-2026-02-20-at-5-34-51-pm.png",
+  "kind": "image",
+  "w": 1341,
+  "h": 1600
+ },
+ "../Air Foil Design/airfoil-cross-section.png": {
+  "web": "assets/air-foil-design/airfoil-cross-section.png",
+  "kind": "image",
+  "w": 1594,
+  "h": 1600
+ },
+ "../Air Foil Design/naca-lift-coefficients-xflr5.png": {
+  "web": "assets/air-foil-design/naca-lift-coefficients-xflr5.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1380
+ },
+ "../Air Foil Design/original-airfoil-wind-tunnel.jpeg": {
+  "web": "assets/air-foil-design/original-airfoil-wind-tunnel.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
+ "../Air Foil Design/airfoil-print-chord.jpeg": {
+  "web": "assets/air-foil-design/airfoil-print-chord.jpg",
+  "kind": "image",
+  "w": 1200,
+  "h": 1600
+ },
+ "../Fit Analysis & Teardown/Screenshot 2026-02-19 at 4.36.11\u202fPM.png": {
+  "web": "assets/analysis-teardown/screenshot-2026-02-19-at-4-36-11-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 878
+ },
+ "../Fit Analysis & Teardown/Screenshot 2026-02-19 at 4.39.46\u202fPM.png": {
+  "web": "assets/analysis-teardown/screenshot-2026-02-19-at-4-39-46-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1543
+ },
+ "../Fit Analysis & Teardown/Screenshot 2026-02-19 at 4.40.44\u202fPM.png": {
+  "web": "assets/analysis-teardown/screenshot-2026-02-19-at-4-40-44-pm.png",
+  "kind": "image",
+  "w": 1586,
+  "h": 1600
+ },
+ "../Fit Analysis & Teardown/Screenshot 2026-02-19 at 4.41.08\u202fPM.png": {
+  "web": "assets/analysis-teardown/screenshot-2026-02-19-at-4-41-08-pm.png",
+  "kind": "image",
+  "w": 1559,
+  "h": 1600
+ },
+ "../Bar Construction/Screenshot 2026-01-03 at 1.52.49\u202fPM.png": {
+  "web": "assets/bar-construction/screenshot-2026-01-03-at-1-52-49-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1586
+ },
+ "../Bar Construction/Screenshot 2026-01-03 at 1.54.34\u202fPM.png": {
+  "web": "assets/bar-construction/screenshot-2026-01-03-at-1-54-34-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Bar Construction/Screenshot 2026-01-03 at 1.56.14\u202fPM.png": {
+  "web": "assets/bar-construction/screenshot-2026-01-03-at-1-56-14-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1578
+ },
+ "../Bee Race/Screenshot 2026-01-03 at 1.49.31\u202fPM.png": {
+  "web": "assets/bee-race/screenshot-2026-01-03-at-1-49-31-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Bee Race/Screen Recording 2025-12-30 at 11.44.02\u202fPM.mov": {
+  "web": "assets/bee-race/screen-recording-2025-12-30-at-11-44-02-pm.mp4",
+  "kind": "video"
+ },
+ "../Bee Race/Screenshot 2026-01-03 at 5.24.10\u202fPM.png": {
+  "web": "assets/bee-race/screenshot-2026-01-03-at-5-24-10-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Bee Race/Screenshot 2026-01-03 at 5.25.15\u202fPM.png": {
+  "web": "assets/bee-race/screenshot-2026-01-03-at-5-25-15-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1594
+ },
+ "../Bee Race/game-f24.arr": {
+  "web": "assets/bee-race/game-f24.arr",
+  "kind": "file"
+ },
+ "../Freestyle CAD/Screenshot 2026-01-03 at 2.17.09\u202fPM.png": {
+  "web": "assets/cad-freestyling/screenshot-2026-01-03-at-2-17-09-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Freestyle CAD/Screenshot 2026-01-03 at 2.13.18\u202fPM.png": {
+  "web": "assets/cad-freestyling/screenshot-2026-01-03-at-2-13-18-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 981
+ },
+ "../Freestyle CAD/Screenshot 2026-01-03 at 2.14.22\u202fPM.png": {
+  "web": "assets/cad-freestyling/screenshot-2026-01-03-at-2-14-22-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1593
+ },
+ "../Freestyle CAD/Screenshot 2026-01-03 at 2.15.10\u202fPM.png": {
+  "web": "assets/cad-freestyling/screenshot-2026-01-03-at-2-15-10-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.29.47\u202fPM.png": {
+  "web": "assets/dark-ride-vehicle/screenshot-2026-01-02-at-11-29-47-pm.png",
+  "kind": "image",
+  "w": 1570,
+  "h": 1600
+ },
+ "../Dark Ride Vehicle/RideVehicle_Animation.mov": {
+  "web": "assets/dark-ride-vehicle/ridevehicle-animation.mp4",
+  "kind": "video"
+ },
+ "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.33.16\u202fPM.png": {
+  "web": "assets/dark-ride-vehicle/screenshot-2026-01-02-at-11-33-16-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1485
+ },
+ "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.34.17\u202fPM.png": {
+  "web": "assets/dark-ride-vehicle/screenshot-2026-01-02-at-11-34-17-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1576
+ },
+ "../EMG Claw Project/IMG_0394.HEIC.png": {
+  "web": "assets/emg-claw/img-0394-heic.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
+ "../EMG Claw Project/IMG_7109.png": {
+  "web": "assets/emg-claw/img-7109.png",
+  "kind": "image",
+  "w": 1200,
+  "h": 1600
+ },
+ "../EMG Claw Project/IMG_0396.HEIC.png": {
+  "web": "assets/emg-claw/img-0396-heic.png",
+  "kind": "image",
+  "w": 1200,
+  "h": 1600
+ },
+ "../EMG Claw Project/IMG_0398.HEIC.png": {
+  "web": "assets/emg-claw/img-0398-heic.png",
+  "kind": "image",
+  "w": 1200,
+  "h": 1600
+ },
+ "../EMG Claw Project/Screenshot 2026-01-08 at 7.54.25\u202fPM.png": {
+  "web": "assets/emg-claw/screenshot-2026-01-08-at-7-54-25-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1038
+ },
+ "../EMG Claw Project/Screenshot 2026-01-08 at 7.55.47\u202fPM.png": {
+  "web": "assets/emg-claw/screenshot-2026-01-08-at-7-55-47-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../EMG Claw Project/Screenshot 2026-01-08 at 7.56.57\u202fPM.png": {
+  "web": "assets/emg-claw/screenshot-2026-01-08-at-7-56-57-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../EMG Claw Project/Screenshot 2026-01-08 at 7.59.29\u202fPM.png": {
+  "web": "assets/emg-claw/screenshot-2026-01-08-at-7-59-29-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../EMG Claw Project/Screenshot 2026-01-17 at 12.51.45\u202fPM.png": {
+  "web": "assets/emg-claw/screenshot-2026-01-17-at-12-51-45-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 577
+ },
+ "../Fluid Particle Analysis Lab/PIVLab Header.png": {
+  "web": "assets/fluid-particle-analysis/pivlab-header.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 800
+ },
+ "../Fluid Particle Analysis Lab/Screenshot 2026-01-01 at 6.38.52\u202fPM.png": {
+  "web": "assets/fluid-particle-analysis/screenshot-2026-01-01-at-6-38-52-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1527
+ },
+ "../Fluid Particle Analysis Lab/Screenshot 2026-01-03 at 2.25.31\u202fPM.png": {
+  "web": "assets/fluid-particle-analysis/screenshot-2026-01-03-at-2-25-31-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Fluid Particle Analysis Lab/Screenshot 2026-01-03 at 2.28.48\u202fPM.png": {
+  "web": "assets/fluid-particle-analysis/screenshot-2026-01-03-at-2-28-48-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Mass Projectile Launcher/IMG_0804.JPG": {
+  "web": "assets/mass-projectile-launcher/img-0804.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 902
+ },
+ "../Mass Projectile Launcher/IMG_0802.MOV": {
+  "web": "assets/mass-projectile-launcher/img-0802.mp4",
+  "kind": "video"
+ },
+ "../Mass Projectile Launcher/Screenshot 2026-01-03 at 1.34.50\u202fPM.png": {
+  "web": "assets/mass-projectile-launcher/screenshot-2026-01-03-at-1-34-50-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1596
+ },
+ "../Mass Projectile Launcher/Screenshot 2026-01-03 at 1.36.48\u202fPM.png": {
+  "web": "assets/mass-projectile-launcher/screenshot-2026-01-03-at-1-36-48-pm.png",
+  "kind": "image",
+  "w": 1584,
+  "h": 1600
+ },
+ "../Mass Projectile Launcher/Screenshot 2026-01-03 at 5.12.19\u202fPM.png": {
+  "web": "assets/mass-projectile-launcher/screenshot-2026-01-03-at-5-12-19-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Mass Projectile Launcher/Screenshot 2026-01-03 at 5.13.22\u202fPM.png": {
+  "web": "assets/mass-projectile-launcher/screenshot-2026-01-03-at-5-13-22-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 675
+ },
+ "../Mass Projectile Launcher/Optimizing a Dynamically Tuned Projectile Launcher - Design Project 1 - Google Docs.pdf": {
+  "web": "assets/mass-projectile-launcher/optimizing-a-dynamically-tuned-projectile-launcher-design-project-1-google-docs.pdf",
+  "kind": "file"
+ },
+ "../Meeting St/IMG_1461.JPG": {
+  "web": "assets/meeting-street-toys/img-1461.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
+ "../Meeting St/IMG_1463.mp4": {
+  "web": "assets/meeting-street-toys/img-1463.mp4",
+  "kind": "video"
+ },
+ "../Meeting St/IMG_5972.mov": {
+  "web": "assets/meeting-street-toys/img-5972.mp4",
+  "kind": "video"
+ },
+ "../Meeting St/IMG_4691.HEIC": {
+  "web": "assets/meeting-street-toys/img-4691.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
+ "../Meeting St/Screenshot 2026-01-01 at 6.49.49\u202fPM.png": {
+  "web": "assets/meeting-street-toys/screenshot-2026-01-01-at-6-49-49-pm.png",
+  "kind": "image",
+  "w": 1204,
+  "h": 1600
+ },
+ "../Meeting St/Screenshot 2026-01-01 at 6.49.55\u202fPM.png": {
+  "web": "assets/meeting-street-toys/screenshot-2026-01-01-at-6-49-55-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 675
+ },
+ "../Meeting St/Screenshot 2026-01-03 at 1.43.41\u202fPM.png": {
+  "web": "assets/meeting-street-toys/screenshot-2026-01-03-at-1-43-41-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1577
+ },
+ "../Meeting St/Screenshot 2026-01-03 at 1.45.28\u202fPM.png": {
+  "web": "assets/meeting-street-toys/screenshot-2026-01-03-at-1-45-28-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1586
+ },
+ "../Meeting St/Screenshot 2026-01-03 at 1.46.11\u202fPM.png": {
+  "web": "assets/meeting-street-toys/screenshot-2026-01-03-at-1-46-11-pm.png",
+  "kind": "image",
+  "w": 1595,
+  "h": 1600
+ },
+ "../Model Rocket/Apogee Rocket.jpg": {
+  "web": "assets/model-rocket/apogee-rocket.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Model Rocket/05066-Kronos_03.jpg": {
+  "web": "assets/model-rocket/05066-kronos-03.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Nereus/nereus-coil-block.jpeg": {
+  "web": "assets/nereus-systems/nereus-coil-block.jpg",
+  "kind": "image",
+  "w": 1200,
+  "h": 1600
+ },
+ "../Nereus/IMG_0545.jpeg": {
+  "web": "assets/nereus-systems/img-0545.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
+ "../Nereus/IMG_0546.jpeg": {
+  "web": "assets/nereus-systems/img-0546.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
+ "../Nereus/Screenshot 2026-02-20 at 5.30.14\u202fPM.png": {
+  "web": "assets/nereus-systems/screenshot-2026-02-20-at-5-30-14-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 969
+ },
+ "../Nereus/IMG_0547.jpeg": {
+  "web": "assets/nereus-systems/img-0547.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
+ "../Product Design Online Course/Screenshot 2026-01-03 at 3.15.05\u202fPM.png": {
+  "web": "assets/product-design-online-course/screenshot-2026-01-03-at-3-15-05-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1567
+ },
+ "../Product Design Online Course/Screenshot 2026-01-03 at 3.16.52\u202fPM.png": {
+  "web": "assets/product-design-online-course/screenshot-2026-01-03-at-3-16-52-pm.png",
+  "kind": "image",
+  "w": 1591,
+  "h": 1600
+ },
+ "../Product Design Online Course/Screenshot 2026-01-03 at 3.19.43\u202fPM.png": {
+  "web": "assets/product-design-online-course/screenshot-2026-01-03-at-3-19-43-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1576
+ },
+ "../Product Design Online Course/Screenshot 2026-01-03 at 3.21.50\u202fPM.png": {
+  "web": "assets/product-design-online-course/screenshot-2026-01-03-at-3-21-50-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 848
+ },
+ "../Shuttle Cock Lab/Screenshot 2026-01-03 at 2.44.37\u202fPM.png": {
+  "web": "assets/shuttlecock-design/screenshot-2026-01-03-at-2-44-37-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1018
+ },
+ "../Shuttle Cock Lab/Screenshot 2026-01-04 at 10.45.06\u202fPM.png": {
+  "web": "assets/shuttlecock-design/screenshot-2026-01-04-at-10-45-06-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1563
+ },
+ "../Shuttle Cock Lab/Screenshot 2026-01-04 at 10.46.24\u202fPM.png": {
+  "web": "assets/shuttlecock-design/screenshot-2026-01-04-at-10-46-24-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Shuttle Cock Lab/Screenshot 2026-01-04 at 10.47.32\u202fPM.png": {
+  "web": "assets/shuttlecock-design/screenshot-2026-01-04-at-10-47-32-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Smart Insoles/insole-cad-base.png": {
+  "web": "assets/smart-insoles/insole-cad-base.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Smart Insoles/Screenshot 2026-01-05 at 2.52.29\u202fPM.png": {
+  "web": "assets/smart-insoles/screenshot-2026-01-05-at-2-52-29-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1584
+ },
+ "../Smart Insoles/Screenshot 2026-01-02 at 11.25.12\u202fPM.png": {
+  "web": "assets/smart-insoles/screenshot-2026-01-02-at-11-25-12-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1592
+ },
+ "../Smart Insoles/Screenshot 2026-01-02 at 11.26.22\u202fPM.png": {
+  "web": "assets/smart-insoles/screenshot-2026-01-02-at-11-26-22-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1588
+ },
+ "../Smart Insoles/Screenshot 2026-01-02 at 11.27.18\u202fPM.png": {
+  "web": "assets/smart-insoles/screenshot-2026-01-02-at-11-27-18-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1460
+ },
+ "../Smart Insoles/Screenshot 2026-01-02 at 11.28.57\u202fPM.png": {
+  "web": "assets/smart-insoles/screenshot-2026-01-02-at-11-28-57-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1593
+ },
+ "../Smart Insoles/Screenshot 2026-01-05 at 2.46.51\u202fPM.png": {
+  "web": "assets/smart-insoles/screenshot-2026-01-05-at-2-46-51-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1597
+ },
+ "../Smart Insoles/Screenshot 2026-01-05 at 2.45.43\u202fPM.png": {
+  "web": "assets/smart-insoles/screenshot-2026-01-05-at-2-45-43-pm.png",
+  "kind": "image",
+  "w": 1577,
+  "h": 1600
+ },
+ "../Vibration Isolation System/Screenshot 2026-01-03 at 1.31.53\u202fPM.png": {
+  "web": "assets/vibration-isolation/screenshot-2026-01-03-at-1-31-53-pm.png",
+  "kind": "image",
+  "w": 1581,
+  "h": 1600
+ },
+ "../Vibration Isolation System/Screenshot 2026-01-03 at 1.28.55\u202fPM.png": {
+  "web": "assets/vibration-isolation/screenshot-2026-01-03-at-1-28-55-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1600
+ },
+ "../Vibration Isolation System/Screenshot 2026-01-03 at 5.07.48\u202fPM.png": {
+  "web": "assets/vibration-isolation/screenshot-2026-01-03-at-5-07-48-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1572
+ },
+ "../Vibration Isolation System/Screenshot 2026-01-03 at 5.08.58\u202fPM.png": {
+  "web": "assets/vibration-isolation/screenshot-2026-01-03-at-5-08-58-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1053
+ },
+ "__resume_preview__": {
+  "web": "assets/site/resume-preview.png",
+  "kind": "image",
+  "w": 1700,
+  "h": 2200
+ }
+}
