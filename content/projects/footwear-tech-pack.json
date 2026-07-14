@@ -21,6 +21,21 @@
       ]
     },
     {
+      "type": "image",
+      "source": "../Footwear Dev Course Tech Pack/Project Photos/Screenshot 2026-07-14 at 4.05.37 PM.png",
+      "caption": "Color CAD"
+    },
+    {
+      "type": "image",
+      "source": "../Footwear Dev Course Tech Pack/Project Photos/Screenshot 2026-07-14 at 4.05.15 PM.png",
+      "caption": "Component Callout"
+    },
+    {
+      "type": "image",
+      "source": "../Footwear Dev Course Tech Pack/Project Photos/Screenshot 2026-07-14 at 4.05.54 PM.png",
+      "caption": "Workback Calendar — brief handoff to 8/1 launch"
+    },
+    {
       "type": "file",
       "source": "../Footwear Dev Course Tech Pack/Full Pdf/Final Tech Pack Slides.pdf",
       "label": "View the full tech pack (PDF)"
