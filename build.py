@@ -188,6 +188,14 @@ def write(rel: str, content: str):
 
 def main():
     DIST.mkdir(exist_ok=True)
+    # Remove page dirs for projects that no longer exist or are hidden.
+    live_slugs = {p["slug"] for p in PROJECTS}
+    work_dir = DIST / "work"
+    if work_dir.exists():
+        for d in work_dir.iterdir():
+            if d.is_dir() and d.name not in live_slugs:
+                shutil.rmtree(d)
+                print(f"removed stale page: work/{d.name}/")
     for f in ("style.css", "main.js", "favicon.svg"):
         shutil.copyfile(ROOT / "static" / f, DIST / f)
     build_home()
