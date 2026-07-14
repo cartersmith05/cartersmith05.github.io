@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Blender + SolidWorks Project — Carter Smith</title>
-<meta name="description" content="[DRAFT — Carter to describe this project: what was modeled, why, and what the water velocity simulation shows.]">
+<meta name="description" content="Modeled a complete kitchen blender in SolidWorks with a team of six classmates for ENGN 1740 (Computer Aided Visualization and Design), then validated the design with motion, structural, tolerance, fluid, and manufacturing analyses.">
 <link rel="stylesheet" href="../../style.css">
 <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
 </head>
@@ -21,11 +21,18 @@
 <p class="crumb"><a href="../index.html">‹ All Projects</a></p>
 <h1>Blender + SolidWorks Project</h1>
 <p class="project-meta">🗓️ 2026</p>
-<p class="lede">[DRAFT — Carter to describe this project: what was modeled, why, and what the water velocity simulation shows.]</p>
-<figure><video src="../../assets/blender-solidworks/water-velocity-video.mp4" controls playsinline preload="metadata"></video><figcaption>Water velocity simulation</figcaption></figure>
-<figure><img src="../../assets/blender-solidworks/screenshot-2026-07-13-at-4-17-52-pm.png" alt="Blade and drive shaft assembly" width="1600" height="1359" loading="lazy"><figcaption>Blade and drive shaft assembly</figcaption></figure>
+<p class="lede">Modeled a complete kitchen blender in SolidWorks with a team of six classmates for ENGN 1740 (Computer Aided Visualization and Design), then validated the design with motion, structural, tolerance, fluid, and manufacturing analyses.</p>
 <figure><img src="../../assets/blender-solidworks/screenshot-2026-07-14-at-2-32-33-pm.png" alt="Full blender assembly — jar interface, drive base, and power cord" width="1418" height="1600" loading="lazy"><figcaption>Full blender assembly — jar interface, drive base, and power cord</figcaption></figure>
+<h2>My Contribution — Motion Analysis</h2>
+<p>I created a motion study by adding a motor to the blender&#x27;s driving gear. Starting with constant rotation at 100 rpm, I used SolidWorks&#x27; Results and Plots to chart the linear displacement of a blade face relative to the driving gear. I then switched the motor to oscillation — 90° displacement at 10 Hz — and generated the resulting motor torque plots.</p>
+<h2>Team Analyses</h2>
+<p>Structural: a 20,000 N/m² normal force on the bowl walls and base simulated blade-driven pressure, plus a 6 N load for a heavy smoothie. Modeling the bowl in Nylon 6/10 as a worst-case material, the yield stress was never reached — the geometry is structurally sound.</p>
+<p>Manufacturing: a CAM simulation machined the blade in a two-setup milling operation on 6061-T6 aluminum, combining Rough Mill, Contour, Area Clearance, and Z-Level cycles with a 0.25&quot; flat end mill for clearing and a 0.25&quot; ball nose for finishing.</p>
+<p>The full drawing package covers every part and assembly — base, driving gear, blade assembly, lids, handle, and bowl.</p>
+<figure><video src="../../assets/blender-solidworks/water-velocity-video.mp4" controls playsinline preload="metadata"></video><figcaption>SolidWorks Flow Simulation — water velocity inside the jar</figcaption></figure>
+<figure><img src="../../assets/blender-solidworks/screenshot-2026-07-13-at-4-17-52-pm.png" alt="Blade and drive shaft assembly" width="1600" height="1359" loading="lazy"><figcaption>Blade and drive shaft assembly</figcaption></figure>
 <figure><img src="../../assets/blender-solidworks/screenshot-2026-07-14-at-2-35-36-pm.png" alt="Tolerance analysis of the blade/drive assembly (TolAnalyst)" width="1600" height="903" loading="lazy"><figcaption>Tolerance analysis of the blade/drive assembly (TolAnalyst)</figcaption></figure>
+<p class="file-link"><a href="../../assets/blender-solidworks/final-engn-1740-blender-presentation.pdf" download>View the full presentation (PDF) ↓</a></p>
 <nav class="prev-next"><a class="pn prev" href="../nereus-systems/index.html">‹ Nereus Systems</a><a class="pn next" href="../footwear-tech-pack/index.html">Footwear Development Course — Tech Pack ›</a></nav>
 </article>
 </main>

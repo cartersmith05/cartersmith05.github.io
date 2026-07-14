@@ -3,9 +3,23 @@
   "title": "The Rock Goes Green — Solar Panel Design",
   "year": 2026,
   "tagline": "Solar thermal system design for Brown’s Rockefeller Library",
-  "lede": "[DRAFT — Carter to describe: the goal, your role, and the outcome of the solar design.]",
+  "lede": "Five-person thermodynamics final project: designing a solar thermal system to replace the 20 kW natural gas boiler at Brown's Rockefeller Library — \"The Rock.\"",
   "cover": "../The Rock Goes Green Solar Panel Design Project/Cover Photo/Screenshot 2026-07-14 at 2.43.20 PM.png",
   "blocks": [
+    {
+      "type": "text",
+      "heading": "Objective",
+      "body": [
+        "The Rock's current 20 kW natural gas boiler runs at roughly 50% efficiency. Our goal was a solar thermal system that meets the library's ~87,600 kWh/year heating demand, cuts fossil fuel consumption, and pays for itself in a reasonable period."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Design",
+      "body": [
+        "The final design uses 25 Apricus ETC-30 evacuated tube collectors in a five-by-five series-parallel configuration on the south-facing roof. A 50% propylene glycol–water loop carries heat through a 55 ft² heat exchanger into a 6,263 L storage tank feeding the building's heating system. Using the HDKR insolation model with Providence TMY3 weather data, we found the optimum collector tilt: 35°, capturing 1,581 kWh/m² per year."
+      ]
+    },
     {
       "type": "image",
       "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.04 PM.png",
@@ -13,13 +27,25 @@
     },
     {
       "type": "image",
+      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.40 PM.png",
+      "caption": "Seasonal glycol inlet and outlet temperature model"
+    },
+    {
+      "type": "image",
       "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.28 PM.png",
       "caption": "System sizing — storage tank, heat exchanger, and pumps"
     },
     {
-      "type": "image",
-      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.40 PM.png",
-      "caption": "Seasonal glycol inlet and outlet temperature model"
+      "type": "text",
+      "heading": "Economics & Impact",
+      "body": [
+        "The system costs about $64,180 and saves roughly $9,985 per year in natural gas — a 6.4-year payback — while avoiding ~31.6 metric tons of CO₂ emissions annually. Safety measures include relief valves, an expansion tank, freeze protection, and a biodegradable, food-safe working fluid."
+      ]
+    },
+    {
+      "type": "file",
+      "source": "../The Rock Goes Green Solar Panel Design Project/Project Presentation/Thermo Final Presentation.pdf",
+      "label": "View the full presentation (PDF)"
     }
   ],
   "order": 4

@@ -3,13 +3,34 @@
   "title": "Blender + SolidWorks Project",
   "year": 2026,
   "tagline": "Modeling a full kitchen blender assembly in SolidWorks",
-  "lede": "[DRAFT — Carter to describe this project: what was modeled, why, and what the water velocity simulation shows.]",
+  "lede": "Modeled a complete kitchen blender in SolidWorks with a team of six classmates for ENGN 1740 (Computer Aided Visualization and Design), then validated the design with motion, structural, tolerance, fluid, and manufacturing analyses.",
   "cover": "../Blender SolidWorks Project/Cover Photo/Screenshot 2026-07-14 at 2.30.54 PM.png",
   "blocks": [
     {
+      "type": "image",
+      "source": "../Blender SolidWorks Project/Project Photos/Screenshot 2026-07-14 at 2.32.33 PM.png",
+      "caption": "Full blender assembly — jar interface, drive base, and power cord"
+    },
+    {
+      "type": "text",
+      "heading": "My Contribution — Motion Analysis",
+      "body": [
+        "I created a motion study by adding a motor to the blender's driving gear. Starting with constant rotation at 100 rpm, I used SolidWorks' Results and Plots to chart the linear displacement of a blade face relative to the driving gear. I then switched the motor to oscillation — 90° displacement at 10 Hz — and generated the resulting motor torque plots."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Team Analyses",
+      "body": [
+        "Structural: a 20,000 N/m² normal force on the bowl walls and base simulated blade-driven pressure, plus a 6 N load for a heavy smoothie. Modeling the bowl in Nylon 6/10 as a worst-case material, the yield stress was never reached — the geometry is structurally sound.",
+        "Manufacturing: a CAM simulation machined the blade in a two-setup milling operation on 6061-T6 aluminum, combining Rough Mill, Contour, Area Clearance, and Z-Level cycles with a 0.25\" flat end mill for clearing and a 0.25\" ball nose for finishing.",
+        "The full drawing package covers every part and assembly — base, driving gear, blade assembly, lids, handle, and bowl."
+      ]
+    },
+    {
       "type": "video",
       "source": "../Blender SolidWorks Project/Project Videos/Water Velocity Video.mp4",
-      "caption": "Water velocity simulation"
+      "caption": "SolidWorks Flow Simulation — water velocity inside the jar"
     },
     {
       "type": "image",
@@ -18,13 +39,13 @@
     },
     {
       "type": "image",
-      "source": "../Blender SolidWorks Project/Project Photos/Screenshot 2026-07-14 at 2.32.33 PM.png",
-      "caption": "Full blender assembly — jar interface, drive base, and power cord"
-    },
-    {
-      "type": "image",
       "source": "../Blender SolidWorks Project/Project Photos/Screenshot 2026-07-14 at 2.35.36 PM.png",
       "caption": "Tolerance analysis of the blade/drive assembly (TolAnalyst)"
+    },
+    {
+      "type": "file",
+      "source": "../Blender SolidWorks Project/Project Presentation/Final ENGN 1740 Blender Presentation.pdf",
+      "label": "View the full presentation (PDF)"
     }
   ],
   "order": 2

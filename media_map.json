@@ -107,6 +107,12 @@
   "w": 1161,
   "h": 1600
  },
+ "../Blender SolidWorks Project/Project Photos/Screenshot 2026-07-14 at 2.32.33\u202fPM.png": {
+  "web": "assets/blender-solidworks/screenshot-2026-07-14-at-2-32-33-pm.png",
+  "kind": "image",
+  "w": 1418,
+  "h": 1600
+ },
  "../Blender SolidWorks Project/Project Videos/Water Velocity Video.mp4": {
   "web": "assets/blender-solidworks/water-velocity-video.mp4",
   "kind": "video"
@@ -117,17 +123,15 @@
   "w": 1600,
   "h": 1359
  },
- "../Blender SolidWorks Project/Project Photos/Screenshot 2026-07-14 at 2.32.33\u202fPM.png": {
-  "web": "assets/blender-solidworks/screenshot-2026-07-14-at-2-32-33-pm.png",
-  "kind": "image",
-  "w": 1418,
-  "h": 1600
- },
  "../Blender SolidWorks Project/Project Photos/Screenshot 2026-07-14 at 2.35.36\u202fPM.png": {
   "web": "assets/blender-solidworks/screenshot-2026-07-14-at-2-35-36-pm.png",
   "kind": "image",
   "w": 1600,
   "h": 903
+ },
+ "../Blender SolidWorks Project/Project Presentation/Final ENGN 1740 Blender Presentation.pdf": {
+  "web": "assets/blender-solidworks/final-engn-1740-blender-presentation.pdf",
+  "kind": "file"
  },
  "../Freestyle CAD (Fusion360 and SolidWorks)/Cover Photo/Screenshot 2026-07-13 at 4.07.04\u202fPM.png": {
   "web": "assets/cad-freestyling/screenshot-2026-07-13-at-4-07-04-pm.png",
@@ -477,17 +481,21 @@
   "w": 1600,
   "h": 905
  },
+ "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.40\u202fPM.png": {
+  "web": "assets/solar-panel-design/screenshot-2026-07-14-at-2-44-40-pm.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 903
+ },
  "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.28\u202fPM.png": {
   "web": "assets/solar-panel-design/screenshot-2026-07-14-at-2-44-28-pm.png",
   "kind": "image",
   "w": 1600,
   "h": 897
  },
- "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.40\u202fPM.png": {
-  "web": "assets/solar-panel-design/screenshot-2026-07-14-at-2-44-40-pm.png",
-  "kind": "image",
-  "w": 1600,
-  "h": 903
+ "../The Rock Goes Green Solar Panel Design Project/Project Presentation/Thermo Final Presentation.pdf": {
+  "web": "assets/solar-panel-design/thermo-final-presentation.pdf",
+  "kind": "file"
  },
  "../Vibration Isolation System/Cover Photo/Screenshot 2026-01-03 at 1.31.53\u202fPM.png": {
   "web": "assets/vibration-isolation/screenshot-2026-01-03-at-1-31-53-pm.png",
