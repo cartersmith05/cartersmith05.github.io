@@ -132,10 +132,11 @@ def main():
             if needs_update(src, dst):
                 dst.parent.mkdir(parents=True, exist_ok=True)
                 print(f"[pdf-render] {site['resume_pdf']} -> {dst.relative_to(ROOT)}")
+                # qlmanage (QuickLook) renders PDF text far crisper than sips.
                 subprocess.run(
-                    ["sips", "-s", "format", "png", "--resampleWidth", "2600",
-                     str(src), "--out", str(dst)],
+                    ["qlmanage", "-t", "-s", "3400", "-o", str(dst.parent), str(src)],
                     check=True, capture_output=True)
+                (dst.parent / (src.name + ".png")).rename(dst)
             w, h = image_size(dst)
             media_map["__resume_preview__"] = {
                 "web": str(dst.relative_to(ROOT / "docs")), "kind": "image",

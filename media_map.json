@@ -3,12 +3,6 @@
   "web": "assets/site/smith-resume.pdf",
   "kind": "file"
  },
- "../Resume/Screenshot 2026-02-20 at 5.34.51\u202fPM.png": {
-  "web": "assets/site/screenshot-2026-02-20-at-5-34-51-pm.png",
-  "kind": "image",
-  "w": 1341,
-  "h": 1600
- },
  "../Air Foil Design/Cover Photo/original-airfoil-wind-tunnel.jpeg": {
   "web": "assets/air-foil-design/original-airfoil-wind-tunnel.jpg",
   "kind": "image",
@@ -536,7 +530,7 @@
  "__resume_preview__": {
   "web": "assets/site/resume-preview.png",
   "kind": "image",
-  "w": 2600,
-  "h": 3364
+  "w": 2627,
+  "h": 3400
  }
 }
