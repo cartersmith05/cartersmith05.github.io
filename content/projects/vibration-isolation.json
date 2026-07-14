@@ -4,7 +4,7 @@
   "year": 2023,
   "tagline": "Isolating a platform from shake-table vibrations",
   "lede": "For this project, my group was tasked with creating a device that could isolate a platform from the vibrations of a shake table. We first developed several design concepts, then unanimously decided to build the device using wood and tension springs.",
-  "cover": "../Vibration Isolation System/Screenshot 2026-01-03 at 1.31.53 PM.png",
+  "cover": "../Vibration Isolation System/Cover Photo/Screenshot 2026-01-03 at 1.31.53 PM.png",
   "blocks": [
     {
       "type": "text",
@@ -15,24 +15,19 @@
     },
     {
       "type": "image",
-      "source": "../Vibration Isolation System/Screenshot 2026-01-03 at 1.28.55 PM.png",
+      "source": "../Vibration Isolation System/Project Photos/Screenshot 2026-01-03 at 1.28.55 PM.png",
       "caption": "Scientific Drawings"
     },
     {
       "type": "image",
-      "source": "../Vibration Isolation System/Screenshot 2026-01-03 at 1.31.53 PM.png",
+      "source": "../Vibration Isolation System/Cover Photo/Screenshot 2026-01-03 at 1.31.53 PM.png",
       "caption": "Isolation Platform"
     },
     {
       "type": "image",
-      "source": "../Vibration Isolation System/Screenshot 2026-01-03 at 5.07.48 PM.png",
+      "source": "../Vibration Isolation System/Project Graphs/Screenshot 2026-01-03 at 5.07.48 PM.png",
       "caption": "Accelerometer Data 2.2Hz"
-    },
-    {
-      "type": "image",
-      "source": "../Vibration Isolation System/Screenshot 2026-01-03 at 5.08.58 PM.png",
-      "caption": "Testing the platform"
     }
   ],
-  "order": 9
+  "order": 12
 }

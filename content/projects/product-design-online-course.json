@@ -4,7 +4,7 @@
   "year": 2025,
   "tagline": "30-part Fusion 360 product design course",
   "lede": "Completed a 30-part Product Design Online course to improve Fusion 360 skills.",
-  "cover": "../Product Design Online Course/Screenshot 2026-01-03 at 3.15.05 PM.png",
+  "cover": "../Product Design Online Course/Cover Photo/Screenshot 2026-07-13 at 4.05.02 PM.png",
   "blocks": [
     {
       "type": "text",
@@ -15,24 +15,24 @@
     },
     {
       "type": "image",
-      "source": "../Product Design Online Course/Screenshot 2026-01-03 at 3.15.05 PM.png",
+      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.15.05 PM.png",
       "caption": "Part 1"
     },
     {
       "type": "image",
-      "source": "../Product Design Online Course/Screenshot 2026-01-03 at 3.16.52 PM.png",
+      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.16.52 PM.png",
       "caption": "Part 2"
     },
     {
       "type": "image",
-      "source": "../Product Design Online Course/Screenshot 2026-01-03 at 3.19.43 PM.png",
+      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.19.43 PM.png",
       "caption": "Part 3"
     },
     {
       "type": "image",
-      "source": "../Product Design Online Course/Screenshot 2026-01-03 at 3.21.50 PM.png",
+      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.21.50 PM.png",
       "caption": "Course designs"
     }
   ],
-  "order": 14
+  "order": 17
 }

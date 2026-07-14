@@ -4,7 +4,7 @@
   "year": 2025,
   "tagline": "Designing adaptive toys for disabled students",
   "lede": "Worked with Brown Medical School students as part of a team designing adaptive toys for students with disabilities at the Rhode Island Meeting Street School.",
-  "cover": "../Meeting St/IMG_1461.JPG",
+  "cover": "../Meeting St/Cover Photo/Screenshot 2026-01-03 at 1.43.41 PM.png",
   "blocks": [
     {
       "type": "text",
@@ -15,49 +15,39 @@
     },
     {
       "type": "image",
-      "source": "../Meeting St/IMG_1461.JPG",
+      "source": "../Meeting St/Project Photos/IMG_1461.JPG",
       "caption": "Adaptive toys in action"
     },
     {
       "type": "video",
-      "source": "../Meeting St/IMG_1463.mp4",
+      "source": "../Meeting St/Project Videos/IMG_1463.mp4",
       "caption": "Adapted toy demo"
     },
     {
       "type": "video",
-      "source": "../Meeting St/IMG_5972.mov",
+      "source": "../Meeting St/Project Videos/IMG_5972.mov",
       "caption": "Adapted toy demo"
     },
     {
       "type": "image",
-      "source": "../Meeting St/IMG_4691.HEIC",
+      "source": "../Meeting St/Project Photos/IMG_4691.HEIC",
       "caption": "Soldering Wires"
     },
     {
       "type": "image",
-      "source": "../Meeting St/Screenshot 2026-01-01 at 6.49.49 PM.png",
-      "caption": "CAD Braille Crayon Cover"
-    },
-    {
-      "type": "image",
-      "source": "../Meeting St/Screenshot 2026-01-01 at 6.49.55 PM.png",
-      "caption": "CAD Braille Crayon Cover — alternate view"
-    },
-    {
-      "type": "image",
-      "source": "../Meeting St/Screenshot 2026-01-03 at 1.43.41 PM.png",
+      "source": "../Meeting St/Cover Photo/Screenshot 2026-01-03 at 1.43.41 PM.png",
       "caption": "Dinosaur toy wired to an accessible button"
     },
     {
       "type": "image",
-      "source": "../Meeting St/Screenshot 2026-01-03 at 1.45.28 PM.png",
+      "source": "../Meeting St/Project Photos/Screenshot 2026-01-03 at 1.45.28 PM.png",
       "caption": "Wiring adapted toys"
     },
     {
       "type": "image",
-      "source": "../Meeting St/Screenshot 2026-01-03 at 1.46.11 PM.png",
+      "source": "../Meeting St/Project Photos/Screenshot 2026-01-03 at 1.46.11 PM.png",
       "caption": "3D printed braille crayon covers"
     }
   ],
-  "order": 5
+  "order": 8
 }

@@ -1,10 +1,10 @@
 {
   "slug": "bar-construction",
-  "title": "Bar Construction",
+  "title": "Mini Bar Construction",
   "year": 2024,
   "tagline": "Built a mini bar with two of my roommates",
   "lede": "Built a mini bar with two of my roommates for our common area space.",
-  "cover": "../Bar Construction/Screenshot 2026-01-03 at 1.52.49 PM.png",
+  "cover": "../Mini Bar Construction/Cover Photo/Screenshot 2026-01-03 at 1.54.34 PM.png",
   "blocks": [
     {
       "type": "text",
@@ -15,19 +15,19 @@
     },
     {
       "type": "image",
-      "source": "../Bar Construction/Screenshot 2026-01-03 at 1.52.49 PM.png",
+      "source": "../Mini Bar Construction/Project Photos/Screenshot 2026-01-03 at 1.52.49 PM.png",
       "caption": "Base"
     },
     {
       "type": "image",
-      "source": "../Bar Construction/Screenshot 2026-01-03 at 1.54.34 PM.png",
+      "source": "../Mini Bar Construction/Cover Photo/Screenshot 2026-01-03 at 1.54.34 PM.png",
       "caption": "Rubber Mat Topper"
     },
     {
       "type": "image",
-      "source": "../Bar Construction/Screenshot 2026-01-03 at 1.56.14 PM.png",
+      "source": "../Mini Bar Construction/Project Photos/Screenshot 2026-01-03 at 1.56.14 PM.png",
       "caption": "Finished Bar Top"
     }
   ],
-  "order": 7
+  "order": 10
 }

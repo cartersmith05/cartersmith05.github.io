@@ -4,7 +4,7 @@
   "year": 2025,
   "tagline": "Solo EMG Claw Project",
   "lede": "Solo EMG Claw design project based on an assignment from Brown University Professor Marissa Gray. Worked with EMG sensors, Arduino, and servo motors to use EMG signals to control the claw.",
-  "cover": "../EMG Claw Project/IMG_0394.HEIC.png",
+  "cover": "../EMG Claw Project/Cover Photo/IMG_0398.HEIC.png",
   "blocks": [
     {
       "type": "text",
@@ -29,49 +29,39 @@
     },
     {
       "type": "image",
-      "source": "../EMG Claw Project/IMG_7109.png",
-      "caption": "Final claw gripping a bottle"
-    },
-    {
-      "type": "image",
-      "source": "../EMG Claw Project/IMG_0394.HEIC.png",
+      "source": "../EMG Claw Project/Project Photo/IMG_0394.HEIC.png",
       "caption": "Final Claw + Design Iterations"
     },
     {
       "type": "image",
-      "source": "../EMG Claw Project/IMG_0396.HEIC.png",
-      "caption": "Arduino and EMG Sensor Wiring"
-    },
-    {
-      "type": "image",
-      "source": "../EMG Claw Project/IMG_0398.HEIC.png",
+      "source": "../EMG Claw Project/Cover Photo/IMG_0398.HEIC.png",
       "caption": "Claw CAD"
     },
     {
       "type": "image",
-      "source": "../EMG Claw Project/Screenshot 2026-01-08 at 7.54.25 PM.png",
+      "source": "../EMG Claw Project/Project Photo/Screenshot 2026-01-08 at 7.54.25 PM.png",
       "caption": "Servo box + printed claw arms"
     },
     {
       "type": "image",
-      "source": "../EMG Claw Project/Screenshot 2026-01-08 at 7.55.47 PM.png",
+      "source": "../EMG Claw Project/Project Photo/Screenshot 2026-01-08 at 7.55.47 PM.png",
       "caption": "Servo box iteration"
     },
     {
       "type": "image",
-      "source": "../EMG Claw Project/Screenshot 2026-01-08 at 7.56.57 PM.png",
+      "source": "../EMG Claw Project/Project Photo/Screenshot 2026-01-08 at 7.56.57 PM.png",
       "caption": "Servo box CAD"
     },
     {
       "type": "image",
-      "source": "../EMG Claw Project/Screenshot 2026-01-08 at 7.59.29 PM.png",
+      "source": "../EMG Claw Project/Project Photo/Screenshot 2026-01-08 at 7.59.29 PM.png",
       "caption": "Electronics assembly"
     },
     {
       "type": "image",
-      "source": "../EMG Claw Project/Screenshot 2026-01-17 at 12.51.45 PM.png",
+      "source": "../EMG Claw Project/Project Code/Screenshot 2026-01-17 at 12.51.45 PM.png",
       "caption": "Arduino IDE Code"
     }
   ],
-  "order": 3
+  "order": 6
 }

@@ -4,7 +4,7 @@
   "year": 2024,
   "tagline": "MATLAB-optimized three-mass, three-spring launcher",
   "lede": "Worked in a group of two to use MATLAB to optimize a three-mass, three-spring projectile launcher.",
-  "cover": "../Mass Projectile Launcher/IMG_0804.JPG",
+  "cover": "../Mass Projectile Launcher/Cover Photo/IMG_0804.JPG",
   "blocks": [
     {
       "type": "text",
@@ -22,39 +22,34 @@
     },
     {
       "type": "video",
-      "source": "../Mass Projectile Launcher/IMG_0802.MOV",
+      "source": "../Mass Projectile Launcher/Project Video/IMG_0802.MOV",
       "caption": "Launch test"
     },
     {
       "type": "image",
-      "source": "../Mass Projectile Launcher/IMG_0804.JPG",
+      "source": "../Mass Projectile Launcher/Cover Photo/IMG_0804.JPG",
       "caption": "Projectile Launcher"
     },
     {
       "type": "image",
-      "source": "../Mass Projectile Launcher/Screenshot 2026-01-03 at 1.34.50 PM.png",
+      "source": "../Mass Projectile Launcher/Project Photos/Screenshot 2026-01-03 at 1.34.50 PM.png",
       "caption": "FBD Drawings + Equations"
     },
     {
       "type": "image",
-      "source": "../Mass Projectile Launcher/Screenshot 2026-01-03 at 1.36.48 PM.png",
-      "caption": "Projectile Launcher (2)"
-    },
-    {
-      "type": "image",
-      "source": "../Mass Projectile Launcher/Screenshot 2026-01-03 at 5.12.19 PM.png",
+      "source": "../Mass Projectile Launcher/Project Photos/Screenshot 2026-01-03 at 5.12.19 PM.png",
       "caption": "High-speed camera velocity measurement"
     },
     {
       "type": "image",
-      "source": "../Mass Projectile Launcher/Screenshot 2026-01-03 at 5.13.22 PM.png",
+      "source": "../Mass Projectile Launcher/Project Photos/Screenshot 2026-01-03 at 5.13.22 PM.png",
       "caption": "Optimized mass and spring configuration (MATLAB)"
     },
     {
       "type": "file",
-      "source": "../Mass Projectile Launcher/Optimizing a Dynamically Tuned Projectile Launcher - Design Project 1 - Google Docs.pdf",
+      "source": "../Mass Projectile Launcher/Project Code/Optimizing a Dynamically Tuned Projectile Launcher - Design Project 1 - Google Docs.pdf",
       "label": "Read the full design report (PDF)"
     }
   ],
-  "order": 13
+  "order": 16
 }

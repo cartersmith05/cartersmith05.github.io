@@ -4,7 +4,7 @@
   "year": 2025,
   "tagline": "Redesigning shuttlecock feathers to model flight",
   "lede": "Worked on a team to redesign the feathers of a shuttlecock in order to track its flight path when launched from an air cannon and compare it to that of a standard shuttlecock.",
-  "cover": "../Shuttle Cock Lab/Screenshot 2026-01-03 at 2.44.37 PM.png",
+  "cover": "../Shuttle Cock Lab/Cover Photo/Screenshot 2026-01-03 at 2.44.37 PM.png",
   "blocks": [
     {
       "type": "text",
@@ -15,24 +15,29 @@
     },
     {
       "type": "image",
-      "source": "../Shuttle Cock Lab/Screenshot 2026-01-03 at 2.44.37 PM.png",
+      "source": "../Shuttle Cock Lab/Cover Photo/Screenshot 2026-01-03 at 2.44.37 PM.png",
       "caption": "Synthetic shuttlecock design"
     },
     {
       "type": "image",
-      "source": "../Shuttle Cock Lab/Screenshot 2026-01-04 at 10.45.06 PM.png",
+      "source": "../Shuttle Cock Lab/Project Graphs/Screenshot 2026-01-04 at 10.45.06 PM.png",
       "caption": "Trajectory 1"
     },
     {
       "type": "image",
-      "source": "../Shuttle Cock Lab/Screenshot 2026-01-04 at 10.46.24 PM.png",
+      "source": "../Shuttle Cock Lab/Project Graphs/Screenshot 2026-01-04 at 10.46.24 PM.png",
       "caption": "Trajectory 2"
     },
     {
       "type": "image",
-      "source": "../Shuttle Cock Lab/Screenshot 2026-01-04 at 10.47.32 PM.png",
+      "source": "../Shuttle Cock Lab/Project Graphs/Screenshot 2026-01-04 at 10.47.32 PM.png",
       "caption": "Trajectory 3"
+    },
+    {
+      "type": "image",
+      "source": "../Shuttle Cock Lab/Project Photos/IMG_6056.HEIC",
+      "caption": "Air cannon used to launch the shuttlecocks"
     }
   ],
-  "order": 15
+  "order": 18
 }

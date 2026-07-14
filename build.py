@@ -18,7 +18,9 @@ DIST = ROOT / "docs"
 SITE = json.loads((ROOT / "content" / "site.json").read_text())
 MEDIA = json.loads((ROOT / "media_map.json").read_text())
 PROJECTS = sorted(
-    (json.loads(f.read_text()) for f in (ROOT / "content" / "projects").glob("*.json")),
+    (p for p in (json.loads(f.read_text())
+                 for f in (ROOT / "content" / "projects").glob("*.json"))
+     if not p.get("hidden")),
     key=lambda p: p["order"])
 
 e = html.escape

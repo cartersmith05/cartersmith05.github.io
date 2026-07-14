@@ -83,6 +83,8 @@ def collect_sources():
             yield site[key], "site"
     for f in sorted((ROOT / "content" / "projects").glob("*.json")):
         p = json.loads(f.read_text())
+        if p.get("hidden"):
+            continue
         if p.get("cover"):
             yield p["cover"], p["slug"]
         for b in p.get("blocks", []):
@@ -138,6 +140,18 @@ def main():
             media_map["__resume_preview__"] = {
                 "web": str(dst.relative_to(ROOT / "docs")), "kind": "image",
                 "w": w, "h": h}
+
+    # Sweep assets that no longer correspond to any content entry.
+    keep = {ROOT / "dist" / v["web"] for v in media_map.values()} | \
+           {ROOT / "docs" / v["web"] for v in media_map.values()}
+    if DIST_ASSETS.exists():
+        for f in sorted(DIST_ASSETS.rglob("*")):
+            if f.is_file() and f not in keep:
+                print(f"[sweep] removing orphaned {f.relative_to(ROOT)}")
+                f.unlink()
+        for d in sorted(DIST_ASSETS.rglob("*"), reverse=True):
+            if d.is_dir() and not any(d.iterdir()):
+                d.rmdir()
 
     MAP_PATH.write_text(json.dumps(media_map, indent=1))
     print(f"\n{len(media_map)} assets ready; map written to media_map.json")

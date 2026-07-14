@@ -4,7 +4,7 @@
   "year": 2026,
   "tagline": "Airfoil Optimization Project",
   "lede": "Worked in a group of 4 to optimize an airfoil for the highest coefficient of lift at stall.",
-  "cover": "../Air Foil Design/airfoil-cross-section.png",
+  "cover": "../Air Foil Design/Cover Photo/original-airfoil-wind-tunnel.jpeg",
   "blocks": [
     {
       "type": "text",
@@ -22,7 +22,7 @@
     },
     {
       "type": "image",
-      "source": "../Air Foil Design/naca-lift-coefficients-xflr5.png",
+      "source": "../Air Foil Design/Project Graphs/naca-lift-coefficients-xflr5.png",
       "caption": "NACA Airfoil Coefficients of Lift in XFLR5"
     },
     {
@@ -41,13 +41,18 @@
     },
     {
       "type": "image",
-      "source": "../Air Foil Design/original-airfoil-wind-tunnel.jpeg",
+      "source": "../Air Foil Design/Cover Photo/original-airfoil-wind-tunnel.jpeg",
       "caption": "Original Airfoil Iteration in the Wind Tunnel"
     },
     {
       "type": "image",
-      "source": "../Air Foil Design/airfoil-print-chord.jpeg",
+      "source": "../Air Foil Design/Project Photos/airfoil-print-chord.jpeg",
       "caption": "Chord Length"
+    },
+    {
+      "type": "image",
+      "source": "../Air Foil Design/Project Photos/airfoil-cross-section.png",
+      "caption": "Airfoil cross-section"
     }
   ],
   "order": 0

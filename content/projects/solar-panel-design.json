@@ -1,0 +1,26 @@
+{
+  "slug": "solar-panel-design",
+  "title": "The Rock Goes Green — Solar Panel Design",
+  "year": 2026,
+  "tagline": "Solar thermal system design for Brown’s Rockefeller Library",
+  "lede": "[DRAFT — Carter to describe: the goal, your role, and the outcome of the solar design.]",
+  "cover": "../The Rock Goes Green Solar Panel Design Project/Cover Photo/Screenshot 2026-07-14 at 2.43.20 PM.png",
+  "blocks": [
+    {
+      "type": "image",
+      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.04 PM.png",
+      "caption": "Optimum tilt angle via the HDKR model — 35° yields 1,581 kWh/m²/yr"
+    },
+    {
+      "type": "image",
+      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.28 PM.png",
+      "caption": "System sizing — storage tank, heat exchanger, and pumps"
+    },
+    {
+      "type": "image",
+      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.40 PM.png",
+      "caption": "Seasonal glycol inlet and outlet temperature model"
+    }
+  ],
+  "order": 4
+}

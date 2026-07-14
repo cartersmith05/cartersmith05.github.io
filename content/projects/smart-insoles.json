@@ -4,7 +4,7 @@
   "year": 2025,
   "tagline": "Smart Insoles Research and Design Project",
   "lede": "Completed an independent research project with Brown University Professor Joseph Crisco, working to design novel pressure sensing insoles for soccer players.",
-  "cover": "../Smart Insoles/insole-cad-base.png",
+  "cover": "../Smart Insoles/Cover Photo/insole-cad-base.png",
   "blocks": [
     {
       "type": "text",
@@ -36,39 +36,39 @@
     },
     {
       "type": "image",
-      "source": "../Smart Insoles/Screenshot 2026-01-05 at 2.52.29 PM.png",
+      "source": "../Smart Insoles/Project Photos/Screenshot 2026-01-05 at 2.52.29 PM.png",
       "caption": "Most Recent Insole Design Draft"
     },
     {
       "type": "image",
-      "source": "../Smart Insoles/Screenshot 2026-01-02 at 11.25.12 PM.png",
+      "source": "../Smart Insoles/Project Photos/Screenshot 2026-01-02 at 11.25.12 PM.png",
       "caption": "Insole base with sensor pockets"
     },
     {
       "type": "image",
-      "source": "../Smart Insoles/Screenshot 2026-01-02 at 11.26.22 PM.png",
+      "source": "../Smart Insoles/Project Photos/Screenshot 2026-01-02 at 11.26.22 PM.png",
       "caption": "Design iteration"
     },
     {
       "type": "image",
-      "source": "../Smart Insoles/Screenshot 2026-01-02 at 11.27.18 PM.png",
+      "source": "../Smart Insoles/Project Photos/Screenshot 2026-01-02 at 11.27.18 PM.png",
       "caption": "Design iteration — raised edge profile"
     },
     {
       "type": "image",
-      "source": "../Smart Insoles/Screenshot 2026-01-02 at 11.28.57 PM.png",
+      "source": "../Smart Insoles/Project Photos/Screenshot 2026-01-02 at 11.28.57 PM.png",
       "caption": "Sensor placement layout"
     },
     {
       "type": "image",
-      "source": "../Smart Insoles/Screenshot 2026-01-05 at 2.46.51 PM.png",
+      "source": "../Smart Insoles/Project Photos/Screenshot 2026-01-05 at 2.46.51 PM.png",
       "caption": "Novel, Striv, and Noraxon reference insoles"
     },
     {
       "type": "image",
-      "source": "../Smart Insoles/Screenshot 2026-01-05 at 2.45.43 PM.png",
+      "source": "../Smart Insoles/Project Photos/Screenshot 2026-01-05 at 2.45.43 PM.png",
       "caption": "Informal and Formal Advisors"
     }
   ],
-  "order": 2
+  "order": 5
 }

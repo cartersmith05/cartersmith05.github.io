@@ -4,7 +4,7 @@
   "year": 2026,
   "tagline": "Basketball shoe fit analysis and sneaker teardown",
   "lede": "Completed a personal project to better understand the fit and composition of basketball sneakers. Performed the fit analysis with the adidas D.O.N. Issue 7, and tore down the Nike Kyrie 7.",
-  "cover": "../Fit Analysis & Teardown/Screenshot 2026-02-19 at 4.36.11 PM.png",
+  "cover": "../Fit Analysis & Teardown/Cover Photo/Screenshot 2026-02-19 at 4.36.11 PM.png",
   "blocks": [
     {
       "type": "text",
@@ -22,24 +22,24 @@
     },
     {
       "type": "image",
-      "source": "../Fit Analysis & Teardown/Screenshot 2026-02-19 at 4.36.11 PM.png",
+      "source": "../Fit Analysis & Teardown/Cover Photo/Screenshot 2026-02-19 at 4.36.11 PM.png",
       "caption": "Full sneaker teardown"
     },
     {
       "type": "image",
-      "source": "../Fit Analysis & Teardown/Screenshot 2026-02-19 at 4.39.46 PM.png",
+      "source": "../Fit Analysis & Teardown/Project Photos/Screenshot 2026-02-19 at 4.39.46 PM.png",
       "caption": "Nike Kyrie 7 before teardown"
     },
     {
       "type": "image",
-      "source": "../Fit Analysis & Teardown/Screenshot 2026-02-19 at 4.40.44 PM.png",
+      "source": "../Fit Analysis & Teardown/Project Photos/Screenshot 2026-02-19 at 4.40.44 PM.png",
       "caption": "Shoe cut in half with bandsaw"
     },
     {
       "type": "image",
-      "source": "../Fit Analysis & Teardown/Screenshot 2026-02-19 at 4.41.08 PM.png",
+      "source": "../Fit Analysis & Teardown/Project Photos/Screenshot 2026-02-19 at 4.41.08 PM.png",
       "caption": "D.O.N. Issue 7 Fit Session"
     }
   ],
-  "order": 6
+  "order": 9
 }

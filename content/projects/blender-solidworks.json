@@ -1,0 +1,31 @@
+{
+  "slug": "blender-solidworks",
+  "title": "Blender + SolidWorks Project",
+  "year": 2026,
+  "tagline": "Modeling a full kitchen blender assembly in SolidWorks",
+  "lede": "[DRAFT — Carter to describe this project: what was modeled, why, and what the water velocity simulation shows.]",
+  "cover": "../Blender SolidWorks Project/Cover Photo/Screenshot 2026-07-14 at 2.30.54 PM.png",
+  "blocks": [
+    {
+      "type": "video",
+      "source": "../Blender SolidWorks Project/Project Videos/Water Velocity Video.mp4",
+      "caption": "Water velocity simulation"
+    },
+    {
+      "type": "image",
+      "source": "../Blender SolidWorks Project/Project Photos/Screenshot 2026-07-13 at 4.17.52 PM.png",
+      "caption": "Blade and drive shaft assembly"
+    },
+    {
+      "type": "image",
+      "source": "../Blender SolidWorks Project/Project Photos/Screenshot 2026-07-14 at 2.32.33 PM.png",
+      "caption": "Full blender assembly — jar interface, drive base, and power cord"
+    },
+    {
+      "type": "image",
+      "source": "../Blender SolidWorks Project/Project Photos/Screenshot 2026-07-14 at 2.35.36 PM.png",
+      "caption": "Tolerance analysis of the blade/drive assembly (TolAnalyst)"
+    }
+  ],
+  "order": 2
+}

@@ -4,7 +4,7 @@
   "year": 2025,
   "tagline": "Vortex rings via Particle Image Velocimetry",
   "lede": "This lab investigated the behavior of vortex rings and illustrated their velocity and vorticity fields using the Particle Image Velocimetry (PIV) method.",
-  "cover": "../Fluid Particle Analysis Lab/PIVLab Header.png",
+  "cover": "../Fluid Particle Analysis Lab/Cover Photo/Screenshot 2026-01-01 at 6.38.52 PM.png",
   "blocks": [
     {
       "type": "text",
@@ -15,19 +15,29 @@
     },
     {
       "type": "image",
-      "source": "../Fluid Particle Analysis Lab/Screenshot 2026-01-01 at 6.38.52 PM.png",
+      "source": "../Fluid Particle Analysis Lab/Cover Photo/Screenshot 2026-01-01 at 6.38.52 PM.png",
       "caption": "Setup"
     },
     {
       "type": "image",
-      "source": "../Fluid Particle Analysis Lab/Screenshot 2026-01-03 at 2.25.31 PM.png",
+      "source": "../Fluid Particle Analysis Lab/Project Graphs/Screenshot 2026-01-03 at 2.25.31 PM.png",
       "caption": "Magnitude"
     },
     {
       "type": "image",
-      "source": "../Fluid Particle Analysis Lab/Screenshot 2026-01-03 at 2.28.48 PM.png",
+      "source": "../Fluid Particle Analysis Lab/Project Graphs/Screenshot 2026-01-03 at 2.28.48 PM.png",
       "caption": "Vorticity"
+    },
+    {
+      "type": "image",
+      "source": "../Fluid Particle Analysis Lab/Project Photos/IMG_1738.heic",
+      "caption": "Vortex ring tank illuminated by the laser sheet"
+    },
+    {
+      "type": "image",
+      "source": "../Fluid Particle Analysis Lab/Project Photos/PIVLab Header.png",
+      "caption": "PIVLab"
     }
   ],
-  "order": 11
+  "order": 14
 }

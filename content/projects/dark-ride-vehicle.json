@@ -4,7 +4,7 @@
   "year": 2023,
   "tagline": "3D Designed Dark Ride Vehicle",
   "lede": "A dark ride vehicle designed in my introductory engineering class. It was part of a group project, and I was responsible for the Fusion 360 modeling and 3D printing.",
-  "cover": "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.29.47 PM.png",
+  "cover": "../Dark Ride Vehicle/Cover Photo/Screenshot 2026-01-02 at 11.29.47 PM.png",
   "blocks": [
     {
       "type": "text",
@@ -22,7 +22,7 @@
     },
     {
       "type": "video",
-      "source": "../Dark Ride Vehicle/RideVehicle_Animation.mov",
+      "source": "../Dark Ride Vehicle/Project Videos/RideVehicle_Animation.mov",
       "caption": "Ride vehicle animation — the moving arm bar in action"
     },
     {
@@ -34,19 +34,19 @@
     },
     {
       "type": "image",
-      "source": "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.29.47 PM.png",
+      "source": "../Dark Ride Vehicle/Cover Photo/Screenshot 2026-01-02 at 11.29.47 PM.png",
       "caption": "3D Printed Vehicle"
     },
     {
       "type": "image",
-      "source": "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.33.16 PM.png",
+      "source": "../Dark Ride Vehicle/Project Photos/Screenshot 2026-01-02 at 11.33.16 PM.png",
       "caption": "Failure Analysis"
     },
     {
       "type": "image",
-      "source": "../Dark Ride Vehicle/Screenshot 2026-01-02 at 11.34.17 PM.png",
+      "source": "../Dark Ride Vehicle/Project Photos/Screenshot 2026-01-02 at 11.34.17 PM.png",
       "caption": "Dimension Drawings"
     }
   ],
-  "order": 4
+  "order": 7
 }

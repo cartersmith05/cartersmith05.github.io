@@ -1,0 +1,16 @@
+{
+  "slug": "footwear-tech-pack",
+  "title": "Footwear Development Course — Tech Pack",
+  "year": 2026,
+  "tagline": "Complete footwear tech pack from a footwear development course",
+  "lede": "[DRAFT — Carter to describe: the course, the shoe concept, and what the tech pack covers.]",
+  "cover": "../Footwear Dev Course Tech Pack/Cover Photo/Screenshot 2026-07-14 at 2.39.21 PM.png",
+  "blocks": [
+    {
+      "type": "file",
+      "source": "../Footwear Dev Course Tech Pack/Full Pdf/Final Tech Pack Slides.pdf",
+      "label": "View the full tech pack (PDF)"
+    }
+  ],
+  "order": 3
+}
