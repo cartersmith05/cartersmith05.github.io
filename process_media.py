@@ -133,7 +133,7 @@ def main():
                 dst.parent.mkdir(parents=True, exist_ok=True)
                 print(f"[pdf-render] {site['resume_pdf']} -> {dst.relative_to(ROOT)}")
                 subprocess.run(
-                    ["sips", "-s", "format", "png", "--resampleWidth", "1700",
+                    ["sips", "-s", "format", "png", "--resampleWidth", "2600",
                      str(src), "--out", str(dst)],
                     check=True, capture_output=True)
             w, h = image_size(dst)

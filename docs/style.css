@@ -151,7 +151,7 @@ figcaption { color: var(--muted); font-size: 0.85rem; margin-top: 10px; text-ali
 
 /* Resume */
 .resume-pdf { width: 100%; height: 85vh; border: 1px solid var(--faint); border-radius: 10px; }
-.resume-img img { width: 100%; height: auto; border: 1px solid var(--faint); border-radius: 10px; }
+.resume-img img { width: 100%; height: auto; border: 1px solid var(--faint); border-radius: 10px; cursor: zoom-in; }
 
 /* Footer */
 .site-footer {

@@ -2,7 +2,7 @@
 const lightbox = document.getElementById('lightbox');
 if (lightbox) {
   const lightboxImg = lightbox.querySelector('img');
-  document.querySelectorAll('.project figure img').forEach((img) => {
+  document.querySelectorAll('.project figure img, .resume-img img').forEach((img) => {
     img.addEventListener('click', () => {
       lightboxImg.src = img.src;
       lightboxImg.alt = img.alt;
