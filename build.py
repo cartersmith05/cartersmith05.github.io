@@ -81,10 +81,12 @@ def project_card(p: dict, depth: int) -> str:
 </a>"""
 
 
-def render_blocks(p: dict, depth: int) -> str:
+def render_blocks(p: dict, depth: int, skip_source: str = None) -> str:
     out = []
     for b in p["blocks"]:
         t = b["type"]
+        if t == "image" and skip_source and b.get("source") == skip_source:
+            continue  # already shown as the hero image
         if t == "text":
             if b.get("heading"):
                 out.append(f"<h2>{e(b['heading'])}</h2>")
@@ -152,12 +154,25 @@ def build_projects():
             nav.append(f'<a class="pn prev" href="../{prev_p["slug"]}/index.html">‹ {e(prev_p["title"])}</a>')
         if next_p:
             nav.append(f'<a class="pn next" href="../{next_p["slug"]}/index.html">{e(next_p["title"])} ›</a>')
+        # Every project opens with its cover photo as a hero image. If the
+        # cover also appears as a body figure, hoist that figure's caption
+        # up here and skip it below so the image isn't shown twice.
+        hero = ""
+        if p.get("cover") in MEDIA:
+            m = MEDIA[p["cover"]]
+            cap = next((b["caption"] for b in p["blocks"]
+                        if b["type"] == "image" and b.get("source") == p["cover"]), None)
+            dims = f' width="{m["w"]}" height="{m["h"]}"' if m.get("w") else ""
+            caption = f"<figcaption>{e(cap)}</figcaption>" if cap else ""
+            hero = (f'<figure class="hero-figure"><img src="{asset(p["cover"], 2)}" '
+                    f'alt="{e(cap or p["title"])}"{dims}>{caption}</figure>')
         body = f"""<article class="project">
 <p class="crumb"><a href="../index.html">‹ All Projects</a></p>
 <h1>{e(p['title'])}</h1>
 <p class="project-meta">🗓️ {p['year']}</p>
 <p class="lede">{e(p['lede'])}</p>
-{render_blocks(p, 2)}
+{hero}
+{render_blocks(p, 2, skip_source=p.get("cover"))}
 <nav class="prev-next">{''.join(nav)}</nav>
 </article>"""
         write(f"work/{p['slug']}/index.html",
