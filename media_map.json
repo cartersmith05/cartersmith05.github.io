@@ -3,6 +3,12 @@
   "web": "assets/site/smith-resume.pdf",
   "kind": "file"
  },
+ "../Resume/Smith_Resume.jpg": {
+  "web": "assets/site/smith-resume.jpg",
+  "kind": "image",
+  "w": 1236,
+  "h": 1600
+ },
  "../Air Foil Design/Cover Photo/original-airfoil-wind-tunnel.jpeg": {
   "web": "assets/air-foil-design/original-airfoil-wind-tunnel.jpg",
   "kind": "image",
@@ -15,17 +21,45 @@
   "w": 1600,
   "h": 1380
  },
+ "../Air Foil Design/Project Graphs/drag-polar-naca-foils.png": {
+  "web": "assets/air-foil-design/drag-polar-naca-foils.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1260
+ },
+ "../Air Foil Design/Project Graphs/cl-vs-cd-naca-foils.png": {
+  "web": "assets/air-foil-design/cl-vs-cd-naca-foils.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1259
+ },
+ "../Air Foil Design/Project Photos/initial-wing-iteration.jpg": {
+  "web": "assets/air-foil-design/initial-wing-iteration.jpg",
+  "kind": "image",
+  "w": 1200,
+  "h": 1600
+ },
  "../Air Foil Design/Project Photos/airfoil-print-chord.jpeg": {
   "web": "assets/air-foil-design/airfoil-print-chord.jpg",
   "kind": "image",
   "w": 1200,
   "h": 1600
  },
+ "../Air Foil Design/Project Graphs/cl-vs-alpha-experimental-vs-xflr5.png": {
+  "web": "assets/air-foil-design/cl-vs-alpha-experimental-vs-xflr5.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 1262
+ },
  "../Air Foil Design/Project Photos/airfoil-cross-section.png": {
   "web": "assets/air-foil-design/airfoil-cross-section.png",
   "kind": "image",
   "w": 1594,
   "h": 1600
+ },
+ "../Air Foil Design/Project Presentation/C1. Lab II.pptx": {
+  "web": "assets/air-foil-design/c1-lab-ii.pptx",
+  "kind": "file"
  },
  "../Fit Analysis & Teardown/Cover Photo/Screenshot 2026-02-19 at 4.36.11\u202fPM.png": {
   "web": "assets/analysis-teardown/screenshot-2026-02-19-at-4-36-11-pm.png",

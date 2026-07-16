@@ -3,56 +3,83 @@
   "title": "Air Foil Design",
   "year": 2026,
   "tagline": "Airfoil Optimization Project",
-  "lede": "Worked in a group of 4 to optimize an airfoil for the highest coefficient of lift at stall.",
+  "lede": "Worked in a group of four to design, simulate, 3D print, and wind-tunnel test an airfoil optimized for the highest coefficient of lift at stall.",
   "cover": "../Air Foil Design/Cover Photo/original-airfoil-wind-tunnel.jpeg",
   "blocks": [
     {
       "type": "text",
       "heading": "Objective",
       "body": [
-        "The goal of this project was to evaluate how airfoil geometry influences aerodynamic performance and to design an improved hydrofoil configuration. We compared experimental wind tunnel data with computational simulations to better understand lift generation, drag forces, and stall behavior."
+        "The goal of this project was to evaluate how airfoil geometry influences aerodynamic performance and to design an improved airfoil configuration. We compared experimental wind tunnel data with computational simulations to better understand lift generation, drag forces, and stall behavior."
       ]
     },
     {
       "type": "text",
-      "heading": "Approach",
+      "heading": "Design Process",
       "body": [
-        "The project combined experimental testing and computational analysis. Wind tunnel experiments measured lift and drag forces across different angles of attack. XFLR5 was used to simulate airfoil performance and generate lift and drag curves for multiple NACA airfoil designs. MATLAB was used to process experimental data and generate performance plots such as lift vs. angle of attack and drag polars. MFC simulations visualized in VisIt were used to examine pressure coefficient distributions and vorticity fields to better understand flow separation and wake behavior."
+        "Each group member selected candidate airfoil designs, tested them in XFLR5, and compared performance metrics. We looked for the highest peak coefficient of lift, reached as early as possible, with the longest stall plateau — so the stall would actually be visible in our experiment. The final wing design was based on the NACA 4415."
       ]
     },
     {
       "type": "image",
       "source": "../Air Foil Design/Project Graphs/naca-lift-coefficients-xflr5.png",
-      "caption": "NACA Airfoil Coefficients of Lift in XFLR5"
+      "caption": "Coefficients of lift of candidate NACA foils in XFLR5"
+    },
+    {
+      "type": "image",
+      "source": "../Air Foil Design/Project Graphs/drag-polar-naca-foils.png",
+      "caption": "Drag polar of candidate NACA foils"
+    },
+    {
+      "type": "image",
+      "source": "../Air Foil Design/Project Graphs/cl-vs-cd-naca-foils.png",
+      "caption": "Lift vs. drag coefficient of candidate NACA foils"
+    },
+    {
+      "type": "image",
+      "source": "../Air Foil Design/Project Photos/initial-wing-iteration.jpg",
+      "caption": "Initial design iteration, 3D printed"
+    },
+    {
+      "type": "image",
+      "source": "../Air Foil Design/Project Photos/airfoil-print-chord.jpeg",
+      "caption": "Final wing print — chord view"
+    },
+    {
+      "type": "text",
+      "heading": "Wind Tunnel Results",
+      "body": [
+        "XFLR5 predicted stall at a 17° angle of attack. In the wind tunnel, our wing's lift kept climbing: the curve only began to plateau near 32°, with a lift coefficient of 1.23, and never showed a clean stall. The gap comes from finite wing effects — downwash and wingtip vortices reduce the effective angle of attack relative to the 2D simulation — and we also observed that simulation tools tended to overestimate lift and underestimate drag compared to experimental results."
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Air Foil Design/Project Graphs/cl-vs-alpha-experimental-vs-xflr5.png",
+      "caption": "Coefficient of lift vs. angle of attack — experimental data vs. XFLR5 model"
+    },
+    {
+      "type": "image",
+      "source": "../Air Foil Design/Project Photos/airfoil-cross-section.png",
+      "caption": "Final wing profile"
     },
     {
       "type": "text",
       "heading": "Key Findings",
       "body": [
-        "The analysis revealed several important aerodynamic trends. Increasing camber improves lift generation, and a rounded leading edge delays stall by reducing early flow separation. Finite wing effects, such as wingtip vortices, reduced lift compared to 2D simulation predictions. We also observed that simulation tools tended to overestimate lift and underestimate drag compared to experimental results."
+        "Increasing camber improves lift generation, and a rounded leading edge delays stall by reducing early flow separation. Based on the analysis, the team proposed transitioning from the original airfoil design to a NACA 63A-010 hydrofoil, which reduces thickness and produces a flatter pressure distribution, lowering drag and improving overall efficiency."
       ]
     },
     {
       "type": "text",
-      "heading": "Design Outcome",
+      "heading": "Reflection",
       "body": [
-        "Based on the analysis, the team proposed transitioning from the original airfoil design to a NACA 63A-010 hydrofoil, which reduces thickness and produces a flatter pressure distribution. This design helps lower drag and improve overall efficiency."
+        "A different experimental setup would likely have led to a different design choice — we were constrained by the strain gauge thickness. Given another pass, we would put more emphasis on calibration and data collection, and print earlier to iterate more aggressively on the design: tapered wings, surface treatments, dimples, and winglets were all left on the table."
       ]
     },
     {
-      "type": "image",
-      "source": "../Air Foil Design/Cover Photo/original-airfoil-wind-tunnel.jpeg",
-      "caption": "Original Airfoil Iteration in the Wind Tunnel"
-    },
-    {
-      "type": "image",
-      "source": "../Air Foil Design/Project Photos/airfoil-print-chord.jpeg",
-      "caption": "Chord Length"
-    },
-    {
-      "type": "image",
-      "source": "../Air Foil Design/Project Photos/airfoil-cross-section.png",
-      "caption": "Airfoil cross-section"
+      "type": "file",
+      "source": "../Air Foil Design/Project Presentation/C1. Lab II.pptx",
+      "label": "Download the lab presentation (PowerPoint)"
     }
   ],
   "order": 0
