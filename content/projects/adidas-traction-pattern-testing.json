@@ -4,7 +4,7 @@
   "year": 2026,
   "tagline": "Product development internship project: adapting and physically testing basketball outsole traction patterns",
   "lede": "As a Product Development Intern on adidas's Basketball Footwear team, I ran an individual project studying how outsole tread pattern affects basketball traction performance. The work moved from CAD pattern adaptation through 3D-printed tooling to physical, pourable-outsole prototypes ready for wear testing.",
-  "cover": "../Adidas Basketball Footwear Internship/Cover Photo/final-poured-outsole-vs-reference.jpg",
+  "cover": "../Adidas Basketball Footwear Internship/Cover Photo/final-outsole-in-hand.heic",
   "blocks": [
     {
       "type": "text",
@@ -48,6 +48,11 @@
       "body": [
         "To turn the molds into testable outsoles, I sanded down a reference sole to remove its original tread, then mixed and poured a two-part castable polyurethane into each mold, sealing and curing it before demolding. The result was a set of physical outsoles — each carrying a different traction pattern on an otherwise identical sole — ready to hand off for wear and bio testing."
       ]
+    },
+    {
+      "type": "image",
+      "source": "../Adidas Basketball Footwear Internship/Cover Photo/final-poured-outsole-vs-reference.jpg",
+      "caption": "A finished poured outsole next to its reference sole"
     }
   ],
   "order": 0

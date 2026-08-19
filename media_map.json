@@ -9,8 +9,8 @@
   "w": 1236,
   "h": 1600
  },
- "../Adidas Basketball Footwear Internship/Cover Photo/final-poured-outsole-vs-reference.jpg": {
-  "web": "assets/adidas-traction-pattern-testing/final-poured-outsole-vs-reference.jpg",
+ "../Adidas Basketball Footwear Internship/Cover Photo/final-outsole-in-hand.heic": {
+  "web": "assets/adidas-traction-pattern-testing/final-outsole-in-hand.jpg",
   "kind": "image",
   "w": 1600,
   "h": 1200
@@ -29,6 +29,12 @@
  },
  "../Adidas Basketball Footwear Internship/Project Photos/3d-printed-polyjet-molds.jpg": {
   "web": "assets/adidas-traction-pattern-testing/3d-printed-polyjet-molds.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
+ "../Adidas Basketball Footwear Internship/Cover Photo/final-poured-outsole-vs-reference.jpg": {
+  "web": "assets/adidas-traction-pattern-testing/final-poured-outsole-vs-reference.jpg",
   "kind": "image",
   "w": 1600,
   "h": 1200
