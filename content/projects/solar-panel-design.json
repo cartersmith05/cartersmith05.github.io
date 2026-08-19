@@ -1,10 +1,10 @@
 {
   "slug": "solar-panel-design",
-  "title": "The Rock Goes Green — Solar Panel Design",
+  "title": "The Rock Goes Green \u2014 Solar Panel Design",
   "year": 2026,
-  "tagline": "Solar thermal system design for Brown’s Rockefeller Library",
-  "lede": "Five-person thermodynamics final project: designing a solar thermal system to replace the 20 kW natural gas boiler at Brown's Rockefeller Library — \"The Rock.\"",
-  "cover": "../The Rock Goes Green Solar Panel Design Project/Cover Photo/Screenshot 2026-07-14 at 2.43.20 PM.png",
+  "tagline": "Solar thermal system design for Brown\u2019s Rockefeller Library",
+  "lede": "Five-person thermodynamics final project: designing a solar thermal system to replace the 20 kW natural gas boiler at Brown's Rockefeller Library \u2014 \"The Rock.\"",
+  "cover": "../The Rock Goes Green Solar Panel Design Project/Cover Photo/Screenshot 2026-07-14 at 2.43.20\u202fPM.png",
   "blocks": [
     {
       "type": "text",
@@ -17,29 +17,29 @@
       "type": "text",
       "heading": "Design",
       "body": [
-        "The final design uses 25 Apricus ETC-30 evacuated tube collectors in a five-by-five series-parallel configuration on the south-facing roof. A 50% propylene glycol–water loop carries heat through a 55 ft² heat exchanger into a 6,263 L storage tank feeding the building's heating system. Using the HDKR insolation model with Providence TMY3 weather data, we found the optimum collector tilt: 35°, capturing 1,581 kWh/m² per year."
+        "The final design uses 25 Apricus ETC-30 evacuated tube collectors in a five-by-five series-parallel configuration on the south-facing roof. A 50% propylene glycol\u2013water loop carries heat through a 55 ft\u00b2 heat exchanger into a 6,263 L storage tank feeding the building's heating system. Using the HDKR insolation model with Providence TMY3 weather data, we found the optimum collector tilt: 35\u00b0, capturing 1,581 kWh/m\u00b2 per year."
       ]
     },
     {
       "type": "image",
-      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.04 PM.png",
-      "caption": "Optimum tilt angle via the HDKR model — 35° yields 1,581 kWh/m²/yr"
+      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.04\u202fPM.png",
+      "caption": "Optimum tilt angle via the HDKR model \u2014 35\u00b0 yields 1,581 kWh/m\u00b2/yr"
     },
     {
       "type": "image",
-      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.40 PM.png",
+      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.40\u202fPM.png",
       "caption": "Seasonal glycol inlet and outlet temperature model"
     },
     {
       "type": "image",
-      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.28 PM.png",
-      "caption": "System sizing — storage tank, heat exchanger, and pumps"
+      "source": "../The Rock Goes Green Solar Panel Design Project/Project Photos/Screenshot 2026-07-14 at 2.44.28\u202fPM.png",
+      "caption": "System sizing \u2014 storage tank, heat exchanger, and pumps"
     },
     {
       "type": "text",
       "heading": "Economics & Impact",
       "body": [
-        "The system costs about $64,180 and saves roughly $9,985 per year in natural gas — a 6.4-year payback — while avoiding ~31.6 metric tons of CO₂ emissions annually. Safety measures include relief valves, an expansion tank, freeze protection, and a biodegradable, food-safe working fluid."
+        "The system costs about $64,180 and saves roughly $9,985 per year in natural gas \u2014 a 6.4-year payback \u2014 while avoiding ~31.6 metric tons of CO\u2082 emissions annually. Safety measures include relief valves, an expansion tank, freeze protection, and a biodegradable, food-safe working fluid."
       ]
     },
     {
@@ -48,5 +48,5 @@
       "label": "View the full presentation (PDF)"
     }
   ],
-  "order": 4
+  "order": 5
 }

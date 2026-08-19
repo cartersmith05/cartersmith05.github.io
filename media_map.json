@@ -9,6 +9,30 @@
   "w": 1236,
   "h": 1600
  },
+ "../Adidas Basketball Footwear Internship/Cover Photo/final-poured-outsole-vs-reference.jpg": {
+  "web": "assets/adidas-traction-pattern-testing/final-poured-outsole-vs-reference.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
+ "../Adidas Basketball Footwear Internship/Project Photos/traction-pattern-cad-render.png": {
+  "web": "assets/adidas-traction-pattern-testing/traction-pattern-cad-render.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 905
+ },
+ "../Adidas Basketball Footwear Internship/Project Photos/grasshopper-outsole-pattern-fitting.png": {
+  "web": "assets/adidas-traction-pattern-testing/grasshopper-outsole-pattern-fitting.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 613
+ },
+ "../Adidas Basketball Footwear Internship/Project Photos/3d-printed-polyjet-molds.jpg": {
+  "web": "assets/adidas-traction-pattern-testing/3d-printed-polyjet-molds.jpg",
+  "kind": "image",
+  "w": 1600,
+  "h": 1200
+ },
  "../Air Foil Design/Cover Photo/original-airfoil-wind-tunnel.jpeg": {
   "web": "assets/air-foil-design/original-airfoil-wind-tunnel.jpg",
   "kind": "image",

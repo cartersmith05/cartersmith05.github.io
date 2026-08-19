@@ -16,14 +16,14 @@
     {
       "type": "image",
       "source": "../In Progress/Model Rocket/Apogee Rocket.jpg",
-      "caption": "Current progress — Apogee rocket build"
+      "caption": "Current progress \u2014 Apogee rocket build"
     },
     {
       "type": "image",
       "source": "../In Progress/Model Rocket/05066-Kronos_03.jpg",
-      "caption": "End goal — high-powered launch"
+      "caption": "End goal \u2014 high-powered launch"
     }
   ],
-  "order": 11,
+  "order": 12,
   "hidden": true
 }

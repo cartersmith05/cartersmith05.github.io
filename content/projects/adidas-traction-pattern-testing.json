@@ -1,0 +1,54 @@
+{
+  "slug": "adidas-traction-pattern-testing",
+  "title": "adidas — Basketball Footwear Traction Pattern Testing",
+  "year": 2026,
+  "tagline": "Product development internship project: adapting and physically testing basketball outsole traction patterns",
+  "lede": "As a Product Development Intern on adidas's Basketball Footwear team, I ran an individual project studying how outsole tread pattern affects basketball traction performance. The work moved from CAD pattern adaptation through 3D-printed tooling to physical, pourable-outsole prototypes ready for wear testing.",
+  "cover": "../Adidas Basketball Footwear Internship/Cover Photo/final-poured-outsole-vs-reference.jpg",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": "The Project",
+      "body": [
+        "Compound is only half of what makes a basketball outsole grip well — the other half is tread pattern. I benchmarked a set of existing adidas basketball traction patterns against each other, then rebuilt each one onto a shared last and compound so the patterns could be compared head-to-head in physical bio testing, isolating pattern as the single variable."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "CAD: Rhino & Grasshopper",
+      "body": [
+        "Working from 2D outsole drawings, I used Rhino to trace closed curves for each traction pattern, then used Grasshopper — a visual programming add-on for Rhino — to wire together move, scale, and cage-edit operations. That let me take existing performance basketball outsole patterns and reshape them to fit a common last outline, so every pattern could be tested on equal footing."
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Adidas Basketball Footwear Internship/Project Photos/traction-pattern-cad-render.png",
+      "caption": "Traction pattern rendered from the adapted outsole curves"
+    },
+    {
+      "type": "image",
+      "source": "../Adidas Basketball Footwear Internship/Project Photos/grasshopper-outsole-pattern-fitting.png",
+      "caption": "Grasshopper script fitting an existing pattern to the shared outsole outline"
+    },
+    {
+      "type": "text",
+      "heading": "From CAD to Mold",
+      "body": [
+        "The 2D pattern curves were extended into 3D mold geometry in Rhino, then 3D printed as polyjet tooling — one mold per traction pattern."
+      ]
+    },
+    {
+      "type": "image",
+      "source": "../Adidas Basketball Footwear Internship/Project Photos/3d-printed-polyjet-molds.jpg",
+      "caption": "3D-printed polyjet molds for four candidate traction patterns"
+    },
+    {
+      "type": "text",
+      "heading": "Pouring the Outsoles",
+      "body": [
+        "To turn the molds into testable outsoles, I sanded down a reference sole to remove its original tread, then mixed and poured a two-part castable polyurethane into each mold, sealing and curing it before demolding. The result was a set of physical outsoles — each carrying a different traction pattern on an otherwise identical sole — ready to hand off for wear and bio testing."
+      ]
+    }
+  ],
+  "order": 0
+}

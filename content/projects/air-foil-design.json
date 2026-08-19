@@ -17,7 +17,7 @@
       "type": "text",
       "heading": "Design Process",
       "body": [
-        "Each group member selected candidate airfoil designs, tested them in XFLR5, and compared performance metrics. We looked for the highest peak coefficient of lift, reached as early as possible, with the longest stall plateau — so the stall would actually be visible in our experiment. The final wing design was based on the NACA 4415."
+        "Each group member selected candidate airfoil designs, tested them in XFLR5, and compared performance metrics. We looked for the highest peak coefficient of lift, reached as early as possible, with the longest stall plateau \u2014 so the stall would actually be visible in our experiment. The final wing design was based on the NACA 4415."
       ]
     },
     {
@@ -43,19 +43,19 @@
     {
       "type": "image",
       "source": "../Air Foil Design/Project Photos/airfoil-print-chord.jpeg",
-      "caption": "Final wing print — chord view"
+      "caption": "Final wing print \u2014 chord view"
     },
     {
       "type": "text",
       "heading": "Wind Tunnel Results",
       "body": [
-        "XFLR5 predicted stall at a 17° angle of attack. In the wind tunnel, our wing's lift kept climbing: the curve only began to plateau near 32°, with a lift coefficient of 1.23, and never showed a clean stall. The gap comes from finite wing effects — downwash and wingtip vortices reduce the effective angle of attack relative to the 2D simulation — and we also observed that simulation tools tended to overestimate lift and underestimate drag compared to experimental results."
+        "XFLR5 predicted stall at a 17\u00b0 angle of attack. In the wind tunnel, our wing's lift kept climbing: the curve only began to plateau near 32\u00b0, with a lift coefficient of 1.23, and never showed a clean stall. The gap comes from finite wing effects \u2014 downwash and wingtip vortices reduce the effective angle of attack relative to the 2D simulation \u2014 and we also observed that simulation tools tended to overestimate lift and underestimate drag compared to experimental results."
       ]
     },
     {
       "type": "image",
       "source": "../Air Foil Design/Project Graphs/cl-vs-alpha-experimental-vs-xflr5.png",
-      "caption": "Coefficient of lift vs. angle of attack — experimental data vs. XFLR5 model"
+      "caption": "Coefficient of lift vs. angle of attack \u2014 experimental data vs. XFLR5 model"
     },
     {
       "type": "image",
@@ -73,7 +73,7 @@
       "type": "text",
       "heading": "Reflection",
       "body": [
-        "A different experimental setup would likely have led to a different design choice — we were constrained by the strain gauge thickness. Given another pass, we would put more emphasis on calibration and data collection, and print earlier to iterate more aggressively on the design: tapered wings, surface treatments, dimples, and winglets were all left on the table."
+        "A different experimental setup would likely have led to a different design choice \u2014 we were constrained by the strain gauge thickness. Given another pass, we would put more emphasis on calibration and data collection, and print earlier to iterate more aggressively on the design: tapered wings, surface treatments, dimples, and winglets were all left on the table."
       ]
     },
     {
@@ -82,5 +82,5 @@
       "label": "Download the lab presentation (PowerPoint)"
     }
   ],
-  "order": 0
+  "order": 1
 }

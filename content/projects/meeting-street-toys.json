@@ -4,7 +4,7 @@
   "year": 2025,
   "tagline": "Designing adaptive toys for disabled students",
   "lede": "Worked with Brown Medical School students as part of a team designing adaptive toys for students with disabilities at the Rhode Island Meeting Street School.",
-  "cover": "../Meeting St/Cover Photo/Screenshot 2026-01-03 at 1.43.41 PM.png",
+  "cover": "../Meeting St/Cover Photo/Screenshot 2026-01-03 at 1.43.41\u202fPM.png",
   "blocks": [
     {
       "type": "text",
@@ -35,19 +35,19 @@
     },
     {
       "type": "image",
-      "source": "../Meeting St/Cover Photo/Screenshot 2026-01-03 at 1.43.41 PM.png",
+      "source": "../Meeting St/Cover Photo/Screenshot 2026-01-03 at 1.43.41\u202fPM.png",
       "caption": "Dinosaur toy wired to an accessible button"
     },
     {
       "type": "image",
-      "source": "../Meeting St/Project Photos/Screenshot 2026-01-03 at 1.45.28 PM.png",
+      "source": "../Meeting St/Project Photos/Screenshot 2026-01-03 at 1.45.28\u202fPM.png",
       "caption": "Wiring adapted toys"
     },
     {
       "type": "image",
-      "source": "../Meeting St/Project Photos/Screenshot 2026-01-03 at 1.46.11 PM.png",
+      "source": "../Meeting St/Project Photos/Screenshot 2026-01-03 at 1.46.11\u202fPM.png",
       "caption": "3D printed braille crayon covers"
     }
   ],
-  "order": 8
+  "order": 9
 }

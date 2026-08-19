@@ -32,17 +32,17 @@
     },
     {
       "type": "image",
-      "source": "../Mass Projectile Launcher/Project Photos/Screenshot 2026-01-03 at 1.34.50 PM.png",
+      "source": "../Mass Projectile Launcher/Project Photos/Screenshot 2026-01-03 at 1.34.50\u202fPM.png",
       "caption": "FBD Drawings + Equations"
     },
     {
       "type": "image",
-      "source": "../Mass Projectile Launcher/Project Photos/Screenshot 2026-01-03 at 5.12.19 PM.png",
+      "source": "../Mass Projectile Launcher/Project Photos/Screenshot 2026-01-03 at 5.12.19\u202fPM.png",
       "caption": "High-speed camera velocity measurement"
     },
     {
       "type": "image",
-      "source": "../Mass Projectile Launcher/Project Photos/Screenshot 2026-01-03 at 5.13.22 PM.png",
+      "source": "../Mass Projectile Launcher/Project Photos/Screenshot 2026-01-03 at 5.13.22\u202fPM.png",
       "caption": "Optimized mass and spring configuration (MATLAB)"
     },
     {
@@ -51,5 +51,5 @@
       "label": "Read the full design report (PDF)"
     }
   ],
-  "order": 16
+  "order": 17
 }

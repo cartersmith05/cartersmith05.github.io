@@ -4,11 +4,11 @@
   "year": 2024,
   "tagline": "A maze-race game built in Pyret",
   "lede": "The Bee Race was a project completed using the Pyret programming language. It is a standard maze-race game in which a player controls a bee as it moves through the maze, collecting honey to regain health and racing to save a princess at the end.",
-  "cover": "../Bee Race/Cover Photo/Screenshot 2026-01-03 at 1.49.31 PM.png",
+  "cover": "../Bee Race/Cover Photo/Screenshot 2026-01-03 at 1.49.31\u202fPM.png",
   "blocks": [
     {
       "type": "video",
-      "source": "../Bee Race/Project Videos/Screen Recording 2025-12-30 at 11.44.02 PM.mov",
+      "source": "../Bee Race/Project Videos/Screen Recording 2025-12-30 at 11.44.02\u202fPM.mov",
       "caption": "Gameplay recording"
     },
     {
@@ -27,17 +27,17 @@
     },
     {
       "type": "image",
-      "source": "../Bee Race/Cover Photo/Screenshot 2026-01-03 at 1.49.31 PM.png",
+      "source": "../Bee Race/Cover Photo/Screenshot 2026-01-03 at 1.49.31\u202fPM.png",
       "caption": "Maze"
     },
     {
       "type": "image",
-      "source": "../Bee Race/Project Photos/Screenshot 2026-01-03 at 5.24.10 PM.png",
+      "source": "../Bee Race/Project Photos/Screenshot 2026-01-03 at 5.24.10\u202fPM.png",
       "caption": "Princess Widget"
     },
     {
       "type": "image",
-      "source": "../Bee Race/Project Photos/Screenshot 2026-01-03 at 5.25.15 PM.png",
+      "source": "../Bee Race/Project Photos/Screenshot 2026-01-03 at 5.25.15\u202fPM.png",
       "caption": "Bee + Honey Widgets"
     },
     {
@@ -46,5 +46,5 @@
       "label": "Download the Pyret source (game-f24.arr)"
     }
   ],
-  "order": 13
+  "order": 14
 }

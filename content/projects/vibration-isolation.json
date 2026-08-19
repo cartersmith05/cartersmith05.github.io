@@ -4,30 +4,30 @@
   "year": 2023,
   "tagline": "Isolating a platform from shake-table vibrations",
   "lede": "For this project, my group was tasked with creating a device that could isolate a platform from the vibrations of a shake table. We first developed several design concepts, then unanimously decided to build the device using wood and tension springs.",
-  "cover": "../Vibration Isolation System/Cover Photo/Screenshot 2026-01-03 at 1.31.53 PM.png",
+  "cover": "../Vibration Isolation System/Cover Photo/Screenshot 2026-01-03 at 1.31.53\u202fPM.png",
   "blocks": [
     {
       "type": "text",
       "heading": null,
       "body": [
-        "We used the formula for the natural frequency of an undamped spring-mass system, ωₙ = √(k/m), along with the goal of achieving a low natural frequency, to determine that we should use as large a mass as possible and relatively compliant springs to minimize the platform's natural frequency."
+        "We used the formula for the natural frequency of an undamped spring-mass system, \u03c9\u2099 = \u221a(k/m), along with the goal of achieving a low natural frequency, to determine that we should use as large a mass as possible and relatively compliant springs to minimize the platform's natural frequency."
       ]
     },
     {
       "type": "image",
-      "source": "../Vibration Isolation System/Project Photos/Screenshot 2026-01-03 at 1.28.55 PM.png",
+      "source": "../Vibration Isolation System/Project Photos/Screenshot 2026-01-03 at 1.28.55\u202fPM.png",
       "caption": "Scientific Drawings"
     },
     {
       "type": "image",
-      "source": "../Vibration Isolation System/Cover Photo/Screenshot 2026-01-03 at 1.31.53 PM.png",
+      "source": "../Vibration Isolation System/Cover Photo/Screenshot 2026-01-03 at 1.31.53\u202fPM.png",
       "caption": "Isolation Platform"
     },
     {
       "type": "image",
-      "source": "../Vibration Isolation System/Project Graphs/Screenshot 2026-01-03 at 5.07.48 PM.png",
+      "source": "../Vibration Isolation System/Project Graphs/Screenshot 2026-01-03 at 5.07.48\u202fPM.png",
       "caption": "Accelerometer Data 2.2Hz"
     }
   ],
-  "order": 12
+  "order": 13
 }

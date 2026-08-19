@@ -1,10 +1,10 @@
 {
   "slug": "footwear-tech-pack",
-  "title": "Footwear Development Course — Tech Pack",
+  "title": "Footwear Development Course \u2014 Tech Pack",
   "year": 2026,
   "tagline": "Reverse tech pack of the adidas X9000L4 running shoe",
   "lede": "Completed FASH 912, a footwear product development course taught by industry veteran Elizabeth Brock-Jones, covering the path from design board to factory floor. For the final assignment, I built a complete reverse tech pack of the adidas X9000L4 running shoe.",
-  "cover": "../Footwear Dev Course Tech Pack/Cover Photo/Screenshot 2026-07-14 at 2.39.21 PM.png",
+  "cover": "../Footwear Dev Course Tech Pack/Cover Photo/Screenshot 2026-07-14 at 2.39.21\u202fPM.png",
   "blocks": [
     {
       "type": "text",
@@ -22,18 +22,18 @@
     },
     {
       "type": "image",
-      "source": "../Footwear Dev Course Tech Pack/Project Photos/Screenshot 2026-07-14 at 4.05.37 PM.png",
+      "source": "../Footwear Dev Course Tech Pack/Project Photos/Screenshot 2026-07-14 at 4.05.37\u202fPM.png",
       "caption": "Color CAD"
     },
     {
       "type": "image",
-      "source": "../Footwear Dev Course Tech Pack/Project Photos/Screenshot 2026-07-14 at 4.05.15 PM.png",
+      "source": "../Footwear Dev Course Tech Pack/Project Photos/Screenshot 2026-07-14 at 4.05.15\u202fPM.png",
       "caption": "Component Callout"
     },
     {
       "type": "image",
-      "source": "../Footwear Dev Course Tech Pack/Project Photos/Screenshot 2026-07-14 at 4.05.54 PM.png",
-      "caption": "Workback Calendar — brief handoff to 8/1 launch"
+      "source": "../Footwear Dev Course Tech Pack/Project Photos/Screenshot 2026-07-14 at 4.05.54\u202fPM.png",
+      "caption": "Workback Calendar \u2014 brief handoff to 8/1 launch"
     },
     {
       "type": "file",
@@ -41,5 +41,5 @@
       "label": "View the full tech pack (PDF)"
     }
   ],
-  "order": 3
+  "order": 4
 }

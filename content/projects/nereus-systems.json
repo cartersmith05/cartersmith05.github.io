@@ -4,7 +4,7 @@
   "year": 2026,
   "tagline": "Undergraduate Researcher on the Nereus Systems team",
   "lede": "Undergraduate chassis lead on the Nereus Systems team.",
-  "cover": "../Nereus/Cover Photo/Screenshot 2026-02-20 at 5.30.14 PM.png",
+  "cover": "../Nereus/Cover Photo/Screenshot 2026-02-20 at 5.30.14\u202fPM.png",
   "blocks": [
     {
       "type": "text",
@@ -26,7 +26,7 @@
     },
     {
       "type": "image",
-      "source": "../Nereus/Cover Photo/Screenshot 2026-02-20 at 5.30.14 PM.png",
+      "source": "../Nereus/Cover Photo/Screenshot 2026-02-20 at 5.30.14\u202fPM.png",
       "caption": "3D Printed Bulkhead"
     },
     {
@@ -35,5 +35,5 @@
       "caption": "Bulkhead dome"
     }
   ],
-  "order": 1
+  "order": 2
 }

@@ -4,35 +4,35 @@
   "year": 2025,
   "tagline": "30-part Fusion 360 product design course",
   "lede": "Completed a 30-part Product Design Online course to improve Fusion 360 skills.",
-  "cover": "../Product Design Online Course/Cover Photo/Screenshot 2026-07-13 at 4.05.02 PM.png",
+  "cover": "../Product Design Online Course/Cover Photo/Screenshot 2026-07-13 at 4.05.02\u202fPM.png",
   "blocks": [
     {
       "type": "text",
       "heading": "Design Projects",
       "body": [
-        "Toy Block · Glass Bottle · Paper Clip · Lofted Bottle · Ice Cube Tray · Hex Nut · Bike Grip · Door Stopper · Light Bulb · iPhone Case · Dog Bowl · Auger · Components and Assemblies · Screwdriver · Painter's Tripod · Sketch Constraints · STL to Solid · Parameters and Joints · Hinges · One-Part Molds · Two-Part Molds · Assemblies with Joints · Sheet Metal Tools · Fan Blades with Surfaces · Mesh Files · T-Splines · Rendering · 2D Drawings · Animations"
+        "Toy Block \u00b7 Glass Bottle \u00b7 Paper Clip \u00b7 Lofted Bottle \u00b7 Ice Cube Tray \u00b7 Hex Nut \u00b7 Bike Grip \u00b7 Door Stopper \u00b7 Light Bulb \u00b7 iPhone Case \u00b7 Dog Bowl \u00b7 Auger \u00b7 Components and Assemblies \u00b7 Screwdriver \u00b7 Painter's Tripod \u00b7 Sketch Constraints \u00b7 STL to Solid \u00b7 Parameters and Joints \u00b7 Hinges \u00b7 One-Part Molds \u00b7 Two-Part Molds \u00b7 Assemblies with Joints \u00b7 Sheet Metal Tools \u00b7 Fan Blades with Surfaces \u00b7 Mesh Files \u00b7 T-Splines \u00b7 Rendering \u00b7 2D Drawings \u00b7 Animations"
       ]
     },
     {
       "type": "image",
-      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.15.05 PM.png",
+      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.15.05\u202fPM.png",
       "caption": "Part 1"
     },
     {
       "type": "image",
-      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.16.52 PM.png",
+      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.16.52\u202fPM.png",
       "caption": "Part 2"
     },
     {
       "type": "image",
-      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.19.43 PM.png",
+      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.19.43\u202fPM.png",
       "caption": "Part 3"
     },
     {
       "type": "image",
-      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.21.50 PM.png",
+      "source": "../Product Design Online Course/Project Photos/Screenshot 2026-01-03 at 3.21.50\u202fPM.png",
       "caption": "Course designs"
     }
   ],
-  "order": 17
+  "order": 18
 }
