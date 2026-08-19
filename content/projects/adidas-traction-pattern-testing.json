@@ -23,12 +23,12 @@
     {
       "type": "image",
       "source": "../Adidas Basketball Footwear Internship/Project Photos/traction-pattern-cad-render.png",
-      "caption": "Traction pattern rendered from the adapted outsole curves"
+      "caption": "Rhino spezial outline"
     },
     {
       "type": "image",
       "source": "../Adidas Basketball Footwear Internship/Project Photos/grasshopper-outsole-pattern-fitting.png",
-      "caption": "Grasshopper script fitting an existing pattern to the shared outsole outline"
+      "caption": "Closing curves with Grasshopper"
     },
     {
       "type": "text",
@@ -52,7 +52,7 @@
     {
       "type": "image",
       "source": "../Adidas Basketball Footwear Internship/Cover Photo/final-poured-outsole-vs-reference.jpg",
-      "caption": "A finished poured outsole next to its reference sole"
+      "caption": "Sanded spezial outsole vs. original"
     }
   ],
   "order": 0
