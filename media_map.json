@@ -69,12 +69,6 @@
   "w": 1200,
   "h": 1600
  },
- "../Air Foil Design/Project Photos/airfoil-print-chord.jpeg": {
-  "web": "assets/air-foil-design/airfoil-print-chord.jpg",
-  "kind": "image",
-  "w": 1200,
-  "h": 1600
- },
  "../Air Foil Design/Project Graphs/cl-vs-alpha-experimental-vs-xflr5.png": {
   "web": "assets/air-foil-design/cl-vs-alpha-experimental-vs-xflr5.png",
   "kind": "image",
