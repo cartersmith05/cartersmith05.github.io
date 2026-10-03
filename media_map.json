@@ -1,10 +1,10 @@
 {
- "../Resume/Smith_Resume.pdf": {
-  "web": "assets/site/smith-resume.pdf",
+ "../Resume/Smith_Resume_Engineering.pdf": {
+  "web": "assets/site/smith-resume-engineering.pdf",
   "kind": "file"
  },
- "../Resume/Smith_Resume.jpg": {
-  "web": "assets/site/smith-resume.jpg",
+ "../Resume/Smith_Resume_Engineering.png": {
+  "web": "assets/site/smith-resume-engineering.png",
   "kind": "image",
   "w": 1236,
   "h": 1600
@@ -170,6 +170,12 @@
   "kind": "image",
   "w": 1418,
   "h": 1600
+ },
+ "../Blender SolidWorks Project/Project Photos/Motion Analysis Slide.png": {
+  "web": "assets/blender-solidworks/motion-analysis-slide.png",
+  "kind": "image",
+  "w": 1600,
+  "h": 669
  },
  "../Blender SolidWorks Project/Project Videos/Water Velocity Video.mp4": {
   "web": "assets/blender-solidworks/water-velocity-video.mp4",
