@@ -165,11 +165,11 @@
   "w": 1418,
   "h": 1600
  },
- "../Blender SolidWorks Project/Project Photos/Motion Analysis Slide.png": {
-  "web": "assets/blender-solidworks/motion-analysis-slide.png",
+ "../Blender SolidWorks Project/Project Photos/Motion Analysis Graphs.png": {
+  "web": "assets/blender-solidworks/motion-analysis-graphs.png",
   "kind": "image",
-  "w": 1600,
-  "h": 669
+  "w": 1529,
+  "h": 1600
  },
  "../Blender SolidWorks Project/Project Videos/Water Velocity Video.mp4": {
   "web": "assets/blender-solidworks/water-velocity-video.mp4",
