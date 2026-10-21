@@ -5,7 +5,7 @@
   --faint: #e8e8e8;
   --accent: #ff6b00;
   --card-bg: #fafafa;
-  --maxw: 880px;
+  --maxw: 1180px;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -17,7 +17,11 @@
   }
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; font-size: 112.5%; }
+@media (min-width: 1500px) {
+  html { font-size: 125%; }
+  :root { --maxw: 1320px; }
+}
 body {
   background: var(--bg);
   color: var(--text);
@@ -81,7 +85,7 @@ main p a:hover, .site-footer a:hover { text-decoration: underline; }
 
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 24px;
 }
 .card {
